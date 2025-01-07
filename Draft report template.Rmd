@@ -1,6 +1,6 @@
 ---
 title: "Report on avian and plant species baseline survey conducted in the Northern Mara between 6th to 21st November 2024"
-author: "Authored by: Milcah Cherono Kirinyet^1^, Andrew M. Cunliffe^1^, Peter Tyrell^1^  
+author: "Authored by: Milcah C. Kirinyet^1^, Andrew M. Cunliffe^1^, Peter Tyrell^1^  
 
 
 Corresponding author: mk767@ex.ac.uk/milcahcherono254@gmail.com"
@@ -53,29 +53,39 @@ Training data was prepared by merging feature collections representing key habit
 
 In QGIS, the exported map underwent further refinement. The color scheme was adjusted to clearly distinguish habitat types, and additional elements such as labels and legends were added for clarity. The inclusion of the buffer zone provided critical insights into the transitional landscapes surrounding the conservancies. This final map serves as a vital resource for understanding habitat dynamics, guiding conservation planning, and informing land-use decisions within and around the conservancies.
 
-Google Earth Pro was then used to identify and mark precise locations for sampling points and transects across the classified landscape. Monitoring sites were selected based on predefined criteria to ensure comprehensive coverage of the ecological diversity within the conservancies. For bird surveys, we established approximately 3-kilometer line transects for each habitat type, with at least two sites per habitat type in each conservancy. For vegetation monitoring, we designed 1-kilometer transects for each habitat type, ensuring that our sampling strategy adequately represented the ecological variations across the landscape.Our efforts were further supported by close collaboration with local experts, including Albert Cheruiyot and Dapash Francis. Their extensive knowledge of the region’s habitats was instrumental in refining site selection and ensuring the monitoring sites captured the complexity of the ecosystems and its accessibility. This step ensured the integration of ground truth data and spatially accurate sampling strategies.
+Google Earth Pro was then used to identify and mark precise locations for sampling points and transects across the classified landscape. Monitoring sites were selected based on predefined criteria to ensure comprehensive coverage of the ecological diversity within the conservancies. For bird surveys, we established approximately 3-kilometer line transects for each habitat type, with at least two sites per habitat type in each conservancy. For vegetation monitoring, we designed 1-kilometer transects for each habitat type, ensuring that our sampling strategy adequately represented the ecological variations across the landscape.Our efforts were further supported by close collaboration with local experts, including Albert Cheruiyot and Dapash Francis among others. Their extensive knowledge of the region’s habitats was instrumental in refining site selection and ensuring the monitoring sites captured the complexity of the ecosystems and its accessibility. This step ensured the integration of ground truth data and spatially accurate sampling strategies.
+
+![](C:\workspace\northern-mara-biodiversity-survey\images\Northern Mara.png)
+
 
 
 ## Field Surveys
 
 ### Survey Design
 
-### Avian Metrics (Point counts on line transect method)
-## Materials Needed
+## Materials used
 
 *	Binoculars 
 *	Spotting scope and sturdy tripod (for wietlands)
 *	Field data sheets and field notebook
-* Plastic sheets or large clear plastic bag to protect data sheets n raining
-*	Plastic envelopes
-* GPS mobile field device/Compass
-*	taxonomic keys, photo-guides, mobile apps, and field handbooks especially the Field Guide to the *Birds of Kenya and Northern Tanzania* by Dale A. Zimmerman, David J. Pearson & Donald A. Turner and *Birds of East Africa* by Terry Stevenson and John Fanshawe.
 *	Clipboard, pencil and eraser
+* Large clear plastic bag (envelop) to protect data sheets from rain
+* GPS mobile field device/Compass
+*	Taxonomic keys including;
+
+      - Photo-Guides
+      - Mobile Apps
+      - Field Handbooks, especially:
+
+               1. Field Guide to the Birds of Kenya and Northern Tanzania by Dale A. Zimmerman, David J. Pearson & Donald A. Turner
+               2. Birds of East Africa by Terry Stevenson and John Fanshawe
+
 
  
+### Avian Metrics (Point counts on line transect method)
 
 
-```{r, echo=FALSE}
+```{r, r, echo = FALSE, warning = FALSE}
 # Load necessary library
 library(ggplot2)
 
@@ -149,6 +159,7 @@ For major wetland areas within the conservancies, we conducted total counts of b
 challenges : habitat type and elevation
 
 ###  Total counts
+![Sample images taken during observation in wetland areas](C:/workspace/northern-mara-biodiversity-survey/images/wetland-observation.jpeg)
 
 ### Opportunistic bird sightings (to build the species list)
 
@@ -174,6 +185,11 @@ To provide context for the ecological data, general site parameters were also re
 -	Elevation: Measured using GPS on mobile devices
 -	Photographic Evidence: Images of interesting bird species were captured for reference and also quadrats for vegetation samples were captured.
 -	Disturbance Indicators: Signs of human activity, grazing, or natural disturbances (e.g., fire) were noted whenever present.
+
+### Data collection
+![Sample images taken during vegetation sampling in Mbokishi](C:/workspace/northern-mara-biodiversity-survey/images/observation.jpeg)
+
+### Data forms
 
 ## Results/Findings
 
