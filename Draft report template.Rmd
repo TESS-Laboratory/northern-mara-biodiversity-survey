@@ -1,30 +1,198 @@
 ---
-title: "Report template"
-author: "Milcah"
+title: "Report on avian and plant species baseline survey conducted in the Northern Mara between 6th to 21st November 2024"
+author: "Authored by: Milcah Cherono Kirinyet^1^, Andrew M. Cunliffe^1^, Peter Tyrell^1^  
+
+
+Corresponding author: mk767@ex.ac.uk/milcahcherono254@gmail.com"
+
+
 date: "`r Sys.Date()`"
-output: html_document
+output:
+  html_document:
+    css: styles.css
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+<style>
+h1 {
+  text-align: center;
+}
+</style>
+
+## ACKNOWLEDGEMENTS
+The survey was conducted in Northern Mara by:
+we  acknowledge  the supoort from: conservancy managers, rangers,consulting team etc
+Project is funded by
+## Executive Summary 
+ a survey was carried out to collect baseline data on avian and floral species composition in the Northern Mara , This report presents an analysis of observed 
+
+
+## Background
+The Northern Mara Conservancies (Enonkishu, Olchoro Oirouwa, and Mbokishi), are critical ecological zones within the larger Mara-Serengeti ecosystem. These areas serve as a vital interface between biodiversity conservation and community-based land management, demonstrating how sustainable practices can foster coexistence between wildlife and human activities. 
+
+The avifauna of the Greater Mara Region is relatively well documented within the Maasai Mara National Reserve, but knowledge about bird species in the surrounding conservancies is sparse. For instance, a study conducted by Monadjem and Virani in 2016  recorded 220 bird species at Mara Naboisho but noted that many species' distributions and habitat associations are poorly understood, relying heavily on anecdotal evidence rather than systematic surveys. Although there are basic species lists available for the region, many of these lists do not capture the full complexity of avian and floral diversity across different habitats within the conservancies. This lack of detailed data can hinder effective conservation strategies and management practices.
+
+The recent baseline survey is particularly timely and significant for newer conservancies like Mbokishi that have not yet undergone extensive ecological assessments, further contributing to the data gap. This survey provides an essential opportunity to establish baseline data on its biodiversity, particularly concerning avian and plant species.
+
+This baseline survey builds upon the foundational work initiated by Biosphere Expeditions during their 2020 survey in Enonkishu (Lee et al., 2020). That study documented over 230 bird species using the Southern African Bird Atlas Project (SABAP2) protocol, underscoring Enonkishu's role as a habitat for various avian populations, including endangered and migratory species. The findings emphasized the necessity for systematic monitoring to understand bird population dynamics and their interactions with land-use patterns. The Biosphere Expeditions report from Enonkishu emphasized the critical need for systematic monitoring to better understand bird populations and their interactions with land-use patterns. This indicates a broader gap in ecological data across the conservancies
+
+The Biosphere Expeditions report also laid the groundwork for understanding plant biodiversity through preliminary inventories. It highlighted the importance of grasslands and woodlands in sustaining habitat quality for both wildlife and livestock while revealing significant gaps in data regarding plant species composition, grassland health, and the prevalence of invasive species. 
+
+By creating a structured framework for data collection, our survey addresses gaps identified in earlier research and recommendations to extend surveys to cover a larger geographical area, ensuring that future studies can compare data over time and assess trends effectively. Continuous monitoring through these transects is vital for assessing the health and resilience of the ecosystems within the conservancies. Long-term data will provide insights into species abundance, diversity, and habitat conditions, which are essential for informed conservation strategies and land management practices.
+
+
+## Introduction
+The objectives of this survey were:
+
+We organised introductory sessions in Enonkishu (for both the Enonkishu and Mbokishi teams) and the Olchoro Oirouwa team at their office headquarters, to discuss the objectives of our visit and the importance of biodiversity surveys for the conservancies and develop the support of the teams and their participation in the planned activities. 
+
+## Site selection 
+
+To map habitat types within the conservancies, we utilized Google Earth Engine (GEE) for data analysis and classification, followed by post-processing in QGIS to enhance the final output. The process began by defining the area of interest (AOI), which included the conservancies and a designated buffer zone created around them to account for transitional land uses and edge effects. Landsat 8 Surface Reflectance imagery for the year 2023 was used, filtered to the AOI and a specified date range. Cloud masking was applied to eliminate pixels affected by clouds or shadows, ensuring data quality. Vegetation indices, including the Normalized Difference Vegetation Index (NDVI) and Enhanced Vegetation Index (EVI), were calculated to enhance the differentiation of land cover types.
+
+Training data was prepared by merging feature collections representing key habitats such as water, woodland, grassland, and shrubland. These were used to train a Random Forest classifier, which classified the AOI, including the buffer zone, into distinct habitat types based on spectral bands and vegetation indices. The accuracy of the model was validated using a split of training and testing datasets, ensuring reliable results. The classified map was then exported from GEE at a 30-meter resolution.
+
+In QGIS, the exported map underwent further refinement. The color scheme was adjusted to clearly distinguish habitat types, and additional elements such as labels and legends were added for clarity. The inclusion of the buffer zone provided critical insights into the transitional landscapes surrounding the conservancies. This final map serves as a vital resource for understanding habitat dynamics, guiding conservation planning, and informing land-use decisions within and around the conservancies.
+
+Google Earth Pro was then used to identify and mark precise locations for sampling points and transects across the classified landscape. Monitoring sites were selected based on predefined criteria to ensure comprehensive coverage of the ecological diversity within the conservancies. For bird surveys, we established approximately 3-kilometer line transects for each habitat type, with at least two sites per habitat type in each conservancy. For vegetation monitoring, we designed 1-kilometer transects for each habitat type, ensuring that our sampling strategy adequately represented the ecological variations across the landscape.Our efforts were further supported by close collaboration with local experts, including Albert Cheruiyot and Dapash Francis. Their extensive knowledge of the region’s habitats was instrumental in refining site selection and ensuring the monitoring sites captured the complexity of the ecosystems and its accessibility. This step ensured the integration of ground truth data and spatially accurate sampling strategies.
+
+
+## Field Surveys
+
+### Survey Design
+
+### Avian Metrics (Point counts on line transect method)
+## Materials Needed
+
+*	Binoculars 
+*	Spotting scope and sturdy tripod (for wietlands)
+*	Field data sheets and field notebook
+* Plastic sheets or large clear plastic bag to protect data sheets n raining
+*	Plastic envelopes
+* GPS mobile field device/Compass
+*	taxonomic keys, photo-guides, mobile apps, and field handbooks especially the Field Guide to the *Birds of Kenya and Northern Tanzania* by Dale A. Zimmerman, David J. Pearson & Donald A. Turner and *Birds of East Africa* by Terry Stevenson and John Fanshawe.
+*	Clipboard, pencil and eraser
+
+ 
+
+
+```{r, echo=FALSE}
+# Load necessary library
+library(ggplot2)
+
+# Define parameters for the transect
+start <- 0         # Starting point of the transect
+end <- 2400        # Ending point
+spacing <- 200     # Distance between sample points
+mid_point <- 1300  # Position for the "Transect Line" pointer
+
+# Data for labels at intervals along the transect
+interval_labels <- data.frame(
+  x = seq(start, end, by = spacing),
+  y = rep(-0.4, length(seq(start, end, by = spacing))), # Position below the transect
+  text = seq(start, end, by = spacing) # Numbers at intervals
+)
+
+# Data for key labels (start, midpoint, end)
+labels <- data.frame(
+  x = c(start, (start + end) / 2, end),
+  y = c(0, 0, 0),
+  text = c("0 m", "Mid-point", "2400 m")
+)
+
+# Create the plot
+  ggplot() +
+  # Draw the transect line
+  geom_segment(aes(x = start, xend = end, y = 0, yend = 0), size = 1.5) +
+  
+  # Add sample points (tick marks)
+  geom_segment(aes(x = seq(start, end, by = spacing), 
+                   xend = seq(start, end, by = spacing), 
+                   y = -0.2, yend = 0.2), size = 1) +
+  
+  # Add labels at intervals
+  geom_text(data = interval_labels, aes(x = x, y = y, label = text), size = 3.5) +
+  
+  # Add labels for start, mid-point, and end
+  geom_text(data = labels, aes(x = x, y = -0.6, label = text), size = 4) +
+  
+  # Arrow and label for "Transect Line" (placed at 1300 m, green color)
+  geom_segment(aes(x = mid_point, xend = mid_point, y = 0.3, yend = 0), 
+               arrow = arrow(length = unit(0.2, "cm")), size = 0.8, color = "green") +
+  annotate("text", x = mid_point, y = 0.5, label = "Transect Line", size = 5) +
+  
+  # Shortened arrow and label for "Sample Points" (diagonally, green color)
+  geom_segment(aes(x = start + spacing, xend = start + spacing, y = 0.4, yend = 0.2), 
+               arrow = arrow(length = unit(0.2, "cm")), size = 0.8, color = "green") +
+  annotate("text", x = start + spacing, y = 0.5, label = "Sample Points", size = 4, 
+           angle = 45, hjust = 0) +
+  
+  # Box around the diagram
+  annotate("rect", xmin = start - 100, xmax = end + 100, ymin = -1, ymax = 1, 
+           color = "black", fill = NA, size = 1) +
+  
+  # Minimalist theme
+  theme_void() +
+  labs(title = " Transect line with sample points") +
+  theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold"))
+
+
 ```
 
-## R Markdown
+The point count datasheet facilitated the systematic observation of bird species. Parameters recorded included:
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+-	Species Presence and Abundance: Number of individuals per species observed within the predefined point count.
+-	Time Intervals: Observations were segmented into time intervals of 10 minutes. 
+-	Environmental Conditions: Weather data (temperature, wind speed, cloud cover) and time of day were recorded  to contextualize species activity.
+-	Habitat Associations: Notes were taken on vegetation or landscape features surrounding the observation point.
+For major wetland areas within the conservancies, we conducted total counts of bird species to capture a comprehensive picture of avian diversity and abundance in these critical habitats. This systematic approach provided valuable data on the ecological significance of wetlands for bird populations.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+challenges : habitat type and elevation
 
-```{r cars}
-summary(cars)
-```
+###  Total counts
 
-## Including Plots
+### Opportunistic bird sightings (to build the species list)
 
-You can also embed plots, for example:
+## Data collection
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+### Data forms
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+### Avian Abundance and Species Richness
+
+### Rare, Threatened, and Endangered Species
+
+### Vegetation Metrics (Quadrats on transect method)
+Data on vegetation were recorded to assess habitat structure, species composition, and overall ecosystem health. The parameters collected included:
+
+-	**Species Identification**: Plant species were recorded by their scientific names.
+-	Canopy Cover: Estimated as a percentage to understand shading and structural complexity.
+-	Tree Height: Estimated for structural profiling.
+-	Ground Cover: Percentages of grass, bare soil, and other ground cover types were noted.
+Site Descriptions
+To provide context for the ecological data, general site parameters were also recorded:
+
+-	Coordinates: Each sampling point’s exact location was recorded.
+-	Elevation: Measured using GPS on mobile devices
+-	Photographic Evidence: Images of interesting bird species were captured for reference and also quadrats for vegetation samples were captured.
+-	Disturbance Indicators: Signs of human activity, grazing, or natural disturbances (e.g., fire) were noted whenever present.
+
+## Results/Findings
+
+- Total species counts,
+- Most abundant birds
+
+## Discussion
+
+## Training and Capacity Building
+To enhance the capacity-building efforts for ground teams, we organised a half -day training for the rangers, to equip the rangers with the necessary skills and knowledge on transect set up  protocols, data and tools used in both avian and plants species monitoring.
+During this training, we covered fundamental topics, including:
+
+-	Transect setup: Detailed instructions on how to establish transects for both bird surveys and vegetation monitoring were demonstrated including other methods that were not used in this survey (e.g., mist nets).
+-	Identification Skills: Rangers were trained in identifying birds using various features such as size, shape, plumage, sounds, calls, behaviour, and habitat preferences. This skill is vital for accurate identification of species in monitoring and data collection.
+-	Guiding Books: Participants were introduced to various reference materials available for bird identification and habitat assessment, enhancing their resources for ongoing learning.
+-	An important addition to the training was the linking of monitoring to global standards like IUCN, rangers were taken through how to check the IUCN Red List for assessing the conservation value of species identified in their areas. Understanding the status of species is crucial for prioritizing conservation actions and monitoring efforts.
+
+The training underscored the significance of biodiversity monitoring in maintaining healthy ecosystems. By equipping rangers with these skills, we aim to foster a culture of continuous learning and engagement that enhances their effectiveness in conservation work. A list of participants is provided in the appendix for reference.
+
+## Conclusion and Recommendations
+
+## References
