@@ -1,16 +1,20 @@
+
 ---
-title: "Report on avian and plant species baseline survey conducted in the Northern Mara between 6th to 21st November 2024"
-author: "Authored by: Milcah C. Kirinyet^1^, Andrew M. Cunliffe^1^, Peter Tyrell^1^  
-
-
-Corresponding author: mk767@ex.ac.uk/milcahcherono254@gmail.com"
-
-
+title: "Report on Avian and Plant Species Baseline Survey Conducted in the Northern Mara between 6th to 21st November 2024"
+author: |
+  **Authored by:** Milcah C. Kirinyet^1^, Andrew M. Cunliffe^1^, Peter Tyrell^1^  
+  **Corresponding Author:** mk767@ex.ac.uk / milcahcherono254@gmail.com
 date: "`r Sys.Date()`"
 output:
+  pdf_document:
+    toc: true
+    number_sections: true
   html_document:
     css: styles.css
+    toc: true
+    number_sections: true
 ---
+
 
 <style>
 h1 {
@@ -18,13 +22,20 @@ h1 {
 }
 </style>
 
-## ACKNOWLEDGEMENTS
-The survey was conducted in Northern Mara by:
-we  acknowledge  the supoort from: conservancy managers, rangers,consulting team etc
-Project is funded by
-## Executive Summary 
- a survey was carried out to collect baseline data on avian and floral species composition in the Northern Mara , This report presents an analysis of observed 
+\newpage
 
+## Acknowledgements
+
+This survey was conducted in the Northern Mara Conservancies by the following team: Oppenheimer Impact Scholar, Ms. Milcah Kirinyet; Ornithologist, Mr. John Musina; and Botanist, Mr. Thomas Mwadime Nyange. The team received invaluable support from the Northern Mara Conservancies' management team and rangers, whose dedication and expertise greatly contributed to the success of this project.
+
+We would like to express our gratitude to the Oppenheimer Programme in African Landscapes (OPALS) for providing the funding that made this project possible. Their commitment to advancing conservation and sustainable land-use initiatives in Africa is deeply appreciated.
+
+
+## Executive Summary 
+
+ A comprehensive survey was conducted to establish baseline data on avian and floral species composition within the Northern Mara Conservancies. The survey aimed to provide a foundational understanding of biodiversity in the region, guiding conservation efforts and land-use planning. This report presents key findings derived from the data collected.
+ 
+Preliminary findings :
 
 ## Background
 The Northern Mara Conservancies (Enonkishu, Olchoro Oirouwa, and Mbokishi), are critical ecological zones within the larger Mara-Serengeti ecosystem. These areas serve as a vital interface between biodiversity conservation and community-based land management, demonstrating how sustainable practices can foster coexistence between wildlife and human activities. 
@@ -43,57 +54,53 @@ By creating a structured framework for data collection, our survey addresses gap
 ## Introduction
 The objectives of this survey were:
 
+*	Establish a comprehensive biomonitoring baseline for avian and floral species composition in the Northern Mara Conservancies
+*	Optimize and expand the existing monitoring infrastructure, integrating bird and plant species alongside the ongoing mammal monitoring.
+*	Enhance local capacity to sustain ongoing biodiversity monitoring through training and knowledge transfer.
+*	Align monitoring efforts with international standards and best practices for biodiversity monitoring and assessment.
+
 We organised introductory sessions in Enonkishu (for both the Enonkishu and Mbokishi teams) and the Olchoro Oirouwa team at their office headquarters, to discuss the objectives of our visit and the importance of biodiversity surveys for the conservancies and develop the support of the teams and their participation in the planned activities. 
 
-## Site selection 
+## Habitat Mapping and Site Selection for Biodiversity Monitoring
 
-To map habitat types within the conservancies, we utilized Google Earth Engine (GEE) for data analysis and classification, followed by post-processing in QGIS to enhance the final output. The process began by defining the area of interest (AOI), which included the conservancies and a designated buffer zone created around them to account for transitional land uses and edge effects. Landsat 8 Surface Reflectance imagery for the year 2023 was used, filtered to the AOI and a specified date range. Cloud masking was applied to eliminate pixels affected by clouds or shadows, ensuring data quality. Vegetation indices, including the Normalized Difference Vegetation Index (NDVI) and Enhanced Vegetation Index (EVI), were calculated to enhance the differentiation of land cover types.
+### Habitat Stratification and Mapping
 
-Training data was prepared by merging feature collections representing key habitats such as water, woodland, grassland, and shrubland. These were used to train a Random Forest classifier, which classified the AOI, including the buffer zone, into distinct habitat types based on spectral bands and vegetation indices. The accuracy of the model was validated using a split of training and testing datasets, ensuring reliable results. The classified map was then exported from GEE at a 30-meter resolution.
+To ensure representative coverage of diverse habitats, the study area within the Northern Mara Conservancies was systematically stratified. Habitats were categorized into distinct types, including grasslands, shrublands, woodlands, and wetlands. Each stratum was treated as an independent unit for sampling. This stratified approach facilitated targeted data collection, ensuring that each habitat type was adequately represented in the study.
 
-In QGIS, the exported map underwent further refinement. The color scheme was adjusted to clearly distinguish habitat types, and additional elements such as labels and legends were added for clarity. The inclusion of the buffer zone provided critical insights into the transitional landscapes surrounding the conservancies. This final map serves as a vital resource for understanding habitat dynamics, guiding conservation planning, and informing land-use decisions within and around the conservancies.
+To map habitat types within the conservancies, we employed a combination of Google Earth Engine (GEE) and QGIS for data analysis and classification. The process began with the delineation of the area of interest (AOI), which encompassed the conservancies and an additional buffer zone. The buffer zone was incorporated to account for transitional land uses and edge effects, thus capturing a holistic picture of the landscape.
 
-Google Earth Pro was then used to identify and mark precise locations for sampling points and transects across the classified landscape. Monitoring sites were selected based on predefined criteria to ensure comprehensive coverage of the ecological diversity within the conservancies. For bird surveys, we established approximately 3-kilometer line transects for each habitat type, with at least two sites per habitat type in each conservancy. For vegetation monitoring, we designed 1-kilometer transects for each habitat type, ensuring that our sampling strategy adequately represented the ecological variations across the landscape.Our efforts were further supported by close collaboration with local experts, including Albert Cheruiyot and Dapash Francis among others. Their extensive knowledge of the region’s habitats was instrumental in refining site selection and ensuring the monitoring sites captured the complexity of the ecosystems and its accessibility. This step ensured the integration of ground truth data and spatially accurate sampling strategies.
+Landsat 8 Surface Reflectance imagery for the year 2023 was filtered to the AOI and a specific date range, ensuring temporal relevance and spatial accuracy. A cloud masking algorithm was applied to exclude pixels impacted by clouds and shadows, further enhancing the data quality. Vegetation indices, including the Normalized Difference Vegetation Index (NDVI) and Enhanced Vegetation Index (EVI), were calculated to improve the differentiation of land cover types.
+
+To classify the habitat types, training data was prepared by merging feature collections that represented key habitats such as water, woodland, grassland, and shrubland. A Random Forest classifier was employed to classify the AOI, including the buffer zone, using spectral bands and vegetation indices. Model accuracy was validated through a split of training and testing datasets, ensuring reliability and robustness of the results. The final classified map was exported from GEE at a resolution of 30 meters.
+
+Further refinements were conducted in QGIS. The map's color scheme was optimized to visually distinguish habitat types, and essential elements such as labels and legends were added to enhance clarity. The inclusion of the buffer zone provided critical insights into transitional landscapes surrounding the conservancies. This final map serves as a foundational resource for understanding habitat dynamics, guiding conservation planning, and informing land-use decisions both within and beyond the conservancies.
+
 
 ![](C:\workspace\northern-mara-biodiversity-survey\images\Northern Mara.png)
 
+### Survey Site Selection
+
+Within the classified habitat strata, stratified random sampling was used to identify survey sites. This method ensured that key ecological features across habitat types were adequately represented, establishing a robust framework for biodiversity assessments. Sampling sites were further refined using Google Earth Pro to pinpoint and mark precise locations for sampling points and transects across the landscape.
+
+Monitoring sites were selected based on predefined criteria, ensuring comprehensive coverage of the ecological diversity within the conservancies. For bird surveys, line transects of approximately 3 kilometers were established for each habitat type, with at least two sites per habitat type in each conservancy. For vegetation monitoring, 1-kilometer transects were designed for each habitat type to adequately capture ecological variations across the landscape.
+
+The refinement of site selection and monitoring strategies was significantly enhanced through close collaboration with local experts, including Albert Cheruiyot and Dapash Francis. Their extensive knowledge of the region’s habitats was instrumental in capturing the ecological complexity and ensuring the accessibility of monitoring sites. This collaborative effort also facilitated the integration of ground truth data, reinforcing the spatial accuracy and ecological relevance of our sampling strategies.
 
 
 ## Field Surveys
 
-### Survey Design
+## Avian Metrics (Point counts on line transect method)
 
-## Materials used
-
-*	Binoculars 
-*	Spotting scope and sturdy tripod (for wietlands)
-*	Field data sheets and field notebook
-*	Clipboard, pencil and eraser
-* Large clear plastic bag (envelop) to protect data sheets from rain
-* GPS mobile field device/Compass
-*	Taxonomic keys including;
-
-      - Photo-Guides
-      - Mobile Apps
-      - Field Handbooks, especially:
-
-               1. Field Guide to the Birds of Kenya and Northern Tanzania by Dale A. Zimmerman, David J. Pearson & Donald A. Turner
-               2. Birds of East Africa by Terry Stevenson and John Fanshawe
-
-
- 
-### Avian Metrics (Point counts on line transect method)
-
+We employed point counts along line transects to assess avian diversity and abundance. Transects were established across various habitat types identified during the site selection process to ensure comprehensive coverage of the study area.
 
 ```{r, r, echo = FALSE, warning = FALSE}
-# Load necessary library
 library(ggplot2)
 
 # Define parameters for the transect
-start <- 0         # Starting point of the transect
-end <- 2400        # Ending point
-spacing <- 200     # Distance between sample points
-mid_point <- 1300  # Position for the "Transect Line" pointer
+start <- 0         
+end <- 2400        
+spacing <- 200     
+mid_point <- 1300  
 
 # Data for labels at intervals along the transect
 interval_labels <- data.frame(
@@ -148,18 +155,54 @@ labels <- data.frame(
 
 ```
 
+
+## Materials used
+
+*	Binoculars 
+*	Spotting scope and sturdy tripod (for wietlands)
+*	Field data sheets and field notebook
+*	Clipboard, pencil and eraser
+* Large clear plastic bag (envelop) to protect data sheets from rain
+* GPS mobile field device/Compass
+*	Taxonomic keys including;
+
+      - Photo-Guides
+      - Mobile Apps
+      - Field Handbooks, especially:
+
+               1. Field Guide to the Birds of Kenya and Northern Tanzania by Dale A. Zimmerman, David J. Pearson & Donald A. Turner
+               2. Birds of East Africa by Terry Stevenson and John Fanshawe
+
+
+ 
+## Survey Design
+Point count stations were located every 200 meters along each transect.
+At each station, observers conducted a 10-minute count.
+Conducted during peak activity periods:
+
+- Morning: 06:00 to 10:00 hours.
+- Afternoon: 16:00 to 18:00 hours.
+Surveys avoided adverse weather conditions that could affect bird activity or detectability.
+
+GPS coordinates and habitat characteristics were recorded at each point to contextualize findings.
+
+Observations were categorized by species, and counts included all individuals detected.
 The point count datasheet facilitated the systematic observation of bird species. Parameters recorded included:
 
 -	Species Presence and Abundance: Number of individuals per species observed within the predefined point count.
 -	Time Intervals: Observations were segmented into time intervals of 10 minutes. 
 -	Environmental Conditions: Weather data (temperature, wind speed, cloud cover) and time of day were recorded  to contextualize species activity.
 -	Habitat Associations: Notes were taken on vegetation or landscape features surrounding the observation point.
-For major wetland areas within the conservancies, we conducted total counts of bird species to capture a comprehensive picture of avian diversity and abundance in these critical habitats. This systematic approach provided valuable data on the ecological significance of wetlands for bird populations.
 
-challenges : habitat type and elevation
+###  Wetland Total Counts
+Given the ecological importance of wetlands as biodiversity hotspots, we employed total counts for all bird species within these habitats. Unlike point counts, this method entailed exhaustive surveys covering the entire wetland area. Observers systematically documented all visible bird species and their respective abundances, supported by binoculars and spotting scopes to improve detection accuracy.This ensured that wetlands were appropriately represented in the overall biodiversity assessment.
 
-###  Total counts
+
 ![Sample images taken during observation in wetland areas](C:/workspace/northern-mara-biodiversity-survey/images/wetland-observation.jpeg)
+
+- Calculate species richness for each wetland.
+- Compare species abundance across wetlands 
+- Identify wetland-dependent and conservation-priority species.
 
 ### Opportunistic bird sightings (to build the species list)
 
@@ -167,11 +210,20 @@ challenges : habitat type and elevation
 
 ### Data forms
 
+## Analysis
+
 ### Avian Abundance and Species Richness
 
+- Total number of bird species observed per habitat type.
+- Number of individuals per species divided by the total number of individuals observed.-relative abundance
+- Use mean counts per point to estimate population densities by species.
+- Identify species strongly associated with specific habitats
 ### Rare, Threatened, and Endangered Species
 
+### Challenges faced : habitat type and elevation
+
 ### Vegetation Metrics (Quadrats on transect method)
+
 Data on vegetation were recorded to assess habitat structure, species composition, and overall ecosystem health. The parameters collected included:
 
 -	**Species Identification**: Plant species were recorded by their scientific names.
@@ -185,6 +237,16 @@ To provide context for the ecological data, general site parameters were also re
 -	Elevation: Measured using GPS on mobile devices
 -	Photographic Evidence: Images of interesting bird species were captured for reference and also quadrats for vegetation samples were captured.
 -	Disturbance Indicators: Signs of human activity, grazing, or natural disturbances (e.g., fire) were noted whenever present.
+
+### Survey Design
+Quadrat Dimensions: 20m × 20m
+Transect and quadrat locations were determined based on:
+
+- Habitat type
+- Accessibility for repeated monitoring.
+
+Species-specific data, including counts and heights for trees and shrubs, and abundance for herbaceous plants
+Photographs were taken of each quadrat from standardized angles for visual records.
 
 ### Data collection
 ![Sample images taken during vegetation sampling in Mbokishi](C:/workspace/northern-mara-biodiversity-survey/images/observation.jpeg)
@@ -211,4 +273,7 @@ The training underscored the significance of biodiversity monitoring in maintain
 
 ## Conclusion and Recommendations
 
+- Established monitoring program will contribute to understanding biodiversity trends and conservation impacts
+- Results will be useful for conservation financing tools or initiatives
+- Trends will be identified based on ongoing assessments and expert consultations.
 ## References
