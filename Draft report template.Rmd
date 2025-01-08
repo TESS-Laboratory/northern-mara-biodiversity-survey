@@ -1,6 +1,6 @@
 
 ---
-title: "Report on Avian and Plant Species Baseline Survey Conducted in the Northern Mara between 6th to 21st November 2024"
+title: "**Report on Avian and Plant Species Baseline Survey Conducted in the Northern Mara between 6th to 21st November 2024**"
 author: |
   **Authored by:** Milcah C. Kirinyet^1^, Andrew M. Cunliffe^1^, Peter Tyrell^1^  
   **Corresponding Author:** mk767@ex.ac.uk / milcahcherono254@gmail.com
@@ -89,7 +89,7 @@ The refinement of site selection and monitoring strategies was significantly enh
 
 ## Field Surveys
 
-## Avian Metrics (Point counts on line transect method)
+### Avian Metrics (Point counts on line transect method)
 
 We employed point counts along line transects to assess avian diversity and abundance. Transects were established across various habitat types identified during the site selection process to ensure comprehensive coverage of the study area.
 
@@ -156,7 +156,7 @@ labels <- data.frame(
 ```
 
 
-## Materials used
+### Materials used
 
 *	Binoculars 
 *	Spotting scope and sturdy tripod (for wietlands)
@@ -175,7 +175,7 @@ labels <- data.frame(
 
 
  
-## Survey Design
+### Survey Design
 Point count stations were located every 200 meters along each transect.
 At each station, observers conducted a 10-minute count.
 Conducted during peak activity periods:
@@ -276,4 +276,5 @@ The training underscored the significance of biodiversity monitoring in maintain
 - Established monitoring program will contribute to understanding biodiversity trends and conservation impacts
 - Results will be useful for conservation financing tools or initiatives
 - Trends will be identified based on ongoing assessments and expert consultations.
+
 ## References
