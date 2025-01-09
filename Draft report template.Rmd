@@ -6,11 +6,13 @@ author: |
   **Corresponding Author:** mk767@ex.ac.uk / milcahcherono254@gmail.com
 date: "`r Sys.Date()`"
 output:
-  pdf_document:
+  html_document:
+    
+    css: styles.css
     toc: true
     number_sections: true
-  html_document:
-    css: styles.css
+  pdf_document:
+    
     toc: true
     number_sections: true
 ---
@@ -44,7 +46,7 @@ The avifauna of the Greater Mara Region is relatively well documented within the
 
 The recent baseline survey is particularly timely and significant for newer conservancies like Mbokishi that have not yet undergone extensive ecological assessments, further contributing to the data gap. This survey provides an essential opportunity to establish baseline data on its biodiversity, particularly concerning avian and plant species.
 
-This baseline survey builds upon the foundational work initiated by Biosphere Expeditions during their 2020 survey in Enonkishu (Lee et al., 2020). That study documented over 230 bird species using the Southern African Bird Atlas Project (SABAP2) protocol, underscoring Enonkishu's role as a habitat for various avian populations, including endangered and migratory species. The findings emphasized the necessity for systematic monitoring to understand bird population dynamics and their interactions with land-use patterns. The Biosphere Expeditions report from Enonkishu emphasized the critical need for systematic monitoring to better understand bird populations and their interactions with land-use patterns. This indicates a broader gap in ecological data across the conservancies
+This baseline survey builds upon the foundational work initiated by Biosphere Expeditions during their 2020 survey in Enonkishu (Lee _et al_., 2020). That study documented over 230 bird species using the Southern African Bird Atlas Project (SABAP2) protocol, underscoring Enonkishu's role as a habitat for various avian populations, including endangered and migratory species. The findings emphasized the necessity for systematic monitoring to understand bird population dynamics and their interactions with land-use patterns. The Biosphere Expeditions report from Enonkishu emphasized the critical need for systematic monitoring to better understand bird populations and their interactions with land-use patterns. This indicates a broader gap in ecological data across the conservancies
 
 The Biosphere Expeditions report also laid the groundwork for understanding plant biodiversity through preliminary inventories. It highlighted the importance of grasslands and woodlands in sustaining habitat quality for both wildlife and livestock while revealing significant gaps in data regarding plant species composition, grassland health, and the prevalence of invasive species. 
 
@@ -76,7 +78,7 @@ To classify the habitat types, training data was prepared by merging feature col
 Further refinements were conducted in QGIS. The map's color scheme was optimized to visually distinguish habitat types, and essential elements such as labels and legends were added to enhance clarity. The inclusion of the buffer zone provided critical insights into transitional landscapes surrounding the conservancies. This final map serves as a foundational resource for understanding habitat dynamics, guiding conservation planning, and informing land-use decisions both within and beyond the conservancies.
 
 
-![](C:\workspace\northern-mara-biodiversity-survey\images\Northern Mara.png)
+![Northern Mara Conservancies' Habitat Types Map](images/Northern Mara.png)
 
 ### Survey Site Selection
 
@@ -93,7 +95,7 @@ The refinement of site selection and monitoring strategies was significantly enh
 
 We employed point counts along line transects to assess avian diversity and abundance. Transects were established across various habitat types identified during the site selection process to ensure comprehensive coverage of the study area.
 
-```{r, r, echo = FALSE, warning = FALSE}
+```{r, r, echo = FALSE, warning = FALSE, fig.cap = "Transect line with sample points"}
 library(ggplot2)
 
 # Define parameters for the transect
@@ -149,7 +151,7 @@ labels <- data.frame(
   
   # Minimalist theme
   theme_void() +
-  labs(title = " Transect line with sample points") +
+  labs(title = " ") +
   theme(plot.title = element_text(hjust = 0.5, size = 14, face = "bold"))
 
 
@@ -170,8 +172,8 @@ labels <- data.frame(
       - Mobile Apps
       - Field Handbooks, especially:
 
-               1. Field Guide to the Birds of Kenya and Northern Tanzania by Dale A. Zimmerman, David J. Pearson & Donald A. Turner
-               2. Birds of East Africa by Terry Stevenson and John Fanshawe
+ 1. Field Guide to the Birds of Kenya and Northern Tanzania by Dale A. Zimmerman, David J. Pearson & Donald A. Turner
+ 2. Birds of East Africa by Terry Stevenson and John Fanshawe
 
 
  
@@ -198,7 +200,7 @@ The point count datasheet facilitated the systematic observation of bird species
 Given the ecological importance of wetlands as biodiversity hotspots, we employed total counts for all bird species within these habitats. Unlike point counts, this method entailed exhaustive surveys covering the entire wetland area. Observers systematically documented all visible bird species and their respective abundances, supported by binoculars and spotting scopes to improve detection accuracy.This ensured that wetlands were appropriately represented in the overall biodiversity assessment.
 
 
-![Sample images taken during observation in wetland areas](C:/workspace/northern-mara-biodiversity-survey/images/wetland-observation.jpeg)
+![Sample images taken during observation in wetland areas](images/wetland-observation.jpeg)
 
 - Calculate species richness for each wetland.
 - Compare species abundance across wetlands 
@@ -209,6 +211,13 @@ Given the ecological importance of wetlands as biodiversity hotspots, we employe
 ## Data collection
 
 ### Data forms
+
+The front page of the Avian Point Count Data Sheet used during the study is shown below:
+
+![Front page of the Avian Point Count Data Sheet](images/aviandatasheet.jpg)
+
+
+
 
 ## Analysis
 
@@ -249,9 +258,14 @@ Species-specific data, including counts and heights for trees and shrubs, and ab
 Photographs were taken of each quadrat from standardized angles for visual records.
 
 ### Data collection
-![Sample images taken during vegetation sampling in Mbokishi](C:/workspace/northern-mara-biodiversity-survey/images/observation.jpeg)
+
+![Sample images taken during vegetation sampling in Mbokishi](images/observation.jpeg)
 
 ### Data forms
+
+
+![ Front page of the Vegetation Sampling Data Sheet](images/vegetationdatasheet.jpg)
+
 
 ## Results/Findings
 
