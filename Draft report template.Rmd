@@ -6,23 +6,23 @@ author: |
   **Corresponding Author:** mk767@ex.ac.uk / milcahcherono254@gmail.com
 date: "`r Sys.Date()`"
 output:
-  html_document:
-    
-    css: styles.css
-    toc: true
-    number_sections: true
   pdf_document:
-    
     toc: true
     number_sections: true
+    fig_caption: true
+header-includes:
+  - \usepackage{float} # Enables exact figure placement with [H]
+  - \setlength{\textfloatsep}{10pt plus 1.0pt minus 2.0pt} # Reduces space around floats
+  - \setlength{\floatsep}{10pt plus 1.0pt minus 2.0pt} # Reduces space between floats
+  - \setlength{\intextsep}{10pt plus 1.0pt minus 2.0pt} # Fine-tune spacing
+
 ---
-
-
 <style>
 h1 {
   text-align: center;
 }
 </style>
+
 
 \newpage
 
@@ -158,7 +158,7 @@ labels <- data.frame(
 ```
 
 
-### Materials used
+#### Materials used
 
 *	Binoculars 
 *	Spotting scope and sturdy tripod (for wietlands)
@@ -175,9 +175,8 @@ labels <- data.frame(
  1. Field Guide to the Birds of Kenya and Northern Tanzania by Dale A. Zimmerman, David J. Pearson & Donald A. Turner
  2. Birds of East Africa by Terry Stevenson and John Fanshawe
 
-
  
-### Survey Design
+#### Survey Design
 Point count stations were located every 200 meters along each transect.
 At each station, observers conducted a 10-minute count.
 Conducted during peak activity periods:
@@ -196,21 +195,30 @@ The point count datasheet facilitated the systematic observation of bird species
 -	Environmental Conditions: Weather data (temperature, wind speed, cloud cover) and time of day were recorded  to contextualize species activity.
 -	Habitat Associations: Notes were taken on vegetation or landscape features surrounding the observation point.
 
-###  Wetland Total Counts
+
+\newpage
+
+####  Wetland Total Counts
+
 Given the ecological importance of wetlands as biodiversity hotspots, we employed total counts for all bird species within these habitats. Unlike point counts, this method entailed exhaustive surveys covering the entire wetland area. Observers systematically documented all visible bird species and their respective abundances, supported by binoculars and spotting scopes to improve detection accuracy.This ensured that wetlands were appropriately represented in the overall biodiversity assessment.
 
-
 ![Sample images taken during observation in wetland areas](images/wetland-observation.jpeg)
+
+
 
 - Calculate species richness for each wetland.
 - Compare species abundance across wetlands 
 - Identify wetland-dependent and conservation-priority species.
 
-### Opportunistic bird sightings (to build the species list)
 
-## Data collection
+#### Opportunistic bird sightings (to build the species list)
 
-### Data forms
+\newpage
+
+#### Data collection
+
+
+#### Data forms
 
 The front page of the Avian Point Count Data Sheet used during the study is shown below:
 
@@ -219,17 +227,21 @@ The front page of the Avian Point Count Data Sheet used during the study is show
 
 
 
-## Analysis
+#### Analysis
 
-### Avian Abundance and Species Richness
+##### Avian Abundance and Species Richness
 
 - Total number of bird species observed per habitat type.
 - Number of individuals per species divided by the total number of individuals observed.-relative abundance
 - Use mean counts per point to estimate population densities by species.
 - Identify species strongly associated with specific habitats
-### Rare, Threatened, and Endangered Species
 
-### Challenges faced : habitat type and elevation
+##### Rare, Threatened, and Endangered Species
+
+
+#### Challenges faced : habitat type and elevation
+
+\newpage
 
 ### Vegetation Metrics (Quadrats on transect method)
 
@@ -247,7 +259,8 @@ To provide context for the ecological data, general site parameters were also re
 -	Photographic Evidence: Images of interesting bird species were captured for reference and also quadrats for vegetation samples were captured.
 -	Disturbance Indicators: Signs of human activity, grazing, or natural disturbances (e.g., fire) were noted whenever present.
 
-### Survey Design
+#### Survey Design
+
 Quadrat Dimensions: 20m × 20m
 Transect and quadrat locations were determined based on:
 
@@ -257,24 +270,42 @@ Transect and quadrat locations were determined based on:
 Species-specific data, including counts and heights for trees and shrubs, and abundance for herbaceous plants
 Photographs were taken of each quadrat from standardized angles for visual records.
 
-### Data collection
+\newpage
 
+#### Data collection
+ 
+ Discuss the procedure here 
+ 
+ 
+ 
 ![Sample images taken during vegetation sampling in Mbokishi](images/observation.jpeg)
 
-### Data forms
+
+\newpage
 
 
+#### Data forms
+
+
+ Highlight major parameters captured by the data form
+ 
+ 
 ![ Front page of the Vegetation Sampling Data Sheet](images/vegetationdatasheet.jpg)
+
 
 
 ## Results/Findings
 
-- Total species counts,
+- Total species counts,A total of xxxx avian species were recorded, xx/xxxx species are of the LC,EN,NT,VU,CR
 - Most abundant birds
 
 ## Discussion
 
+
+\newpage
+
 ## Training and Capacity Building
+
 To enhance the capacity-building efforts for ground teams, we organised a half -day training for the rangers, to equip the rangers with the necessary skills and knowledge on transect set up  protocols, data and tools used in both avian and plants species monitoring.
 During this training, we covered fundamental topics, including:
 
