@@ -28,25 +28,27 @@ h1 {
 
 ## Acknowledgements
 
-This survey was conducted in the Northern Mara Conservancies by the following team: Oppenheimer Impact Scholar, Ms. Milcah Kirinyet; Ornithologist, Mr. John Musina; and Botanist, Mr. Thomas Mwadime Nyange. The team received invaluable support from the Northern Mara Conservancies' management team and rangers, whose dedication and expertise greatly contributed to the success of this project.
+This survey was conducted in the Northern Mara Conservancies by the following team: Oppenheimer Impact Scholar, Ms Milcah Kirinyet; Ornithologist, Mr John Musina; and Botanist, Mr Thomas Mwadime Nyange. The team received invaluable support from the Northern Mara Conservancies' management team and rangers, whose dedication and expertise greatly contributed to the success of this project.
 
-We would like to express our gratitude to the Oppenheimer Programme in African Landscapes (OPALS) for providing the funding that made this project possible. Their commitment to advancing conservation and sustainable land-use initiatives in Africa is deeply appreciated.
+We would like to express our gratitude to the Oppenheimer Programme in African Landscapes (OPALS) for providing the funding that made this project possible. Their commitment to advancing conservation and sustainable land use initiatives in Africa is deeply appreciated.
 
 
 ## Executive Summary 
 
- A comprehensive survey was conducted to establish baseline data on avian and floral species composition within the Northern Mara Conservancies. The survey aimed to provide a foundational understanding of biodiversity in the region, guiding conservation efforts and land-use planning. This report presents key findings derived from the data collected.
+ A comprehensive survey was conducted to establish baseline data on avian and floral species composition within the Northern Mara Conservancies. The survey aimed to provide a foundational understanding of biodiversity in the region, guiding conservation efforts and land use planning. This report presents key findings derived from the data collected.
  
 Preliminary findings :
 
 ## Background
-The Northern Mara Conservancies (Enonkishu, Olchoro Oirouwa, and Mbokishi), are critical ecological zones within the larger Mara-Serengeti ecosystem. These areas serve as a vital interface between biodiversity conservation and community-based land management, demonstrating how sustainable practices can foster coexistence between wildlife and human activities. 
+The Northern Mara Conservancies (Enonkishu, Olchoro Oirouwa, and Mbokishi) collectively span approximately 32,928 acres, forming critical ecological zones  within the larger Mara-Serengeti ecosystem, renowned for its rich biodiversity and complex ecological interactions. These areas serve as a vital interface between biodiversity conservation and community-based land management, demonstrating how sustainable practices can foster coexistence between wildlife and human activities. 
 
-The avifauna of the Greater Mara Region is relatively well documented within the Maasai Mara National Reserve, but knowledge about bird species in the surrounding conservancies is sparse. For instance, a study conducted by Monadjem and Virani in 2016  recorded 220 bird species at Mara Naboisho but noted that many species' distributions and habitat associations are poorly understood, relying heavily on anecdotal evidence rather than systematic surveys. Although there are basic species lists available for the region, many of these lists do not capture the full complexity of avian and floral diversity across different habitats within the conservancies. This lack of detailed data can hinder effective conservation strategies and management practices.
+Recent studies have further underscored the pivotal role of community conservancies in preserving wildlife populations within this region. Notably, a 2021 census by the Wildlife Research and Training Institute and the Kenya Wildlife Service revealed that over 83% of wildlife in the Maasai Mara were found in community conservancies. This finding highlights the growing importance of these areas as key players in biodiversity conservation and sustainable land management.
 
-The recent baseline survey is particularly timely and significant for newer conservancies like Mbokishi that have not yet undergone extensive ecological assessments, further contributing to the data gap. This survey provides an essential opportunity to establish baseline data on its biodiversity, particularly concerning avian and plant species.
+While these conservancies are recognized for their contributions to wildlife conservation, knowledge about other critical aspects of biodiversity remains limited. The avifauna of the Greater Mara Region is relatively well documented within the Maasai Mara National Reserve, but knowledge about bird species in the surrounding conservancies is sparse. For instance, a study conducted by Monadjem and Virani in 2016  recorded 220 bird species at Mara Naboisho but noted that many species' distributions and habitat associations are poorly understood, relying heavily on anecdotal evidence rather than systematic surveys. Although there are basic species lists available for the region, many of these lists do not capture the full complexity of avian and floral diversity across different habitats within the conservancies. This lack of detailed data can hinder effective conservation strategies and management practices.
 
-This baseline survey builds upon the foundational work initiated by Biosphere Expeditions during their 2020 survey in Enonkishu (Lee _et al_., 2020). That study documented over 230 bird species using the Southern African Bird Atlas Project (SABAP2) protocol, underscoring Enonkishu's role as a habitat for various avian populations, including endangered and migratory species. The findings emphasized the necessity for systematic monitoring to understand bird population dynamics and their interactions with land-use patterns. The Biosphere Expeditions report from Enonkishu emphasized the critical need for systematic monitoring to better understand bird populations and their interactions with land-use patterns. This indicates a broader gap in ecological data across the conservancies
+The recent baseline survey is particularly timely and significant for newer conservancies like Mbokishi that have not yet undergone extensive ecological assessments, further contributing to the data gap. This survey provides an essential opportunity to establish baseline data on its biodiversity, particularly focusing on avian and plant species, while considering the vital role of habitat in shaping the distribution and abundance of bird species.
+
+This baseline survey builds upon the foundational work initiated by Biosphere Expeditions during their 2020 survey in Enonkishu (Lee _et al_., 2020). That study documented over 230 bird species using the Southern African Bird Atlas Project (SABAP2) protocol, underscoring Enonkishu's role as a habitat for various avian populations, including endangered and migratory species. The findings emphasised the necessity for systematic monitoring to understand bird population dynamics and their interactions with land use patterns. The Biosphere Expeditions report from Enonkishu emphasised the critical need for systematic monitoring to better understand bird populations and their interactions with land use patterns. This indicates a broader gap in ecological data across the conservancies.
 
 The Biosphere Expeditions report also laid the groundwork for understanding plant biodiversity through preliminary inventories. It highlighted the importance of grasslands and woodlands in sustaining habitat quality for both wildlife and livestock while revealing significant gaps in data regarding plant species composition, grassland health, and the prevalence of invasive species. 
 
@@ -57,7 +59,7 @@ By creating a structured framework for data collection, our survey addresses gap
 The objectives of this survey were:
 
 *	Establish a comprehensive biomonitoring baseline for avian and floral species composition in the Northern Mara Conservancies
-*	Optimize and expand the existing monitoring infrastructure, integrating bird and plant species alongside the ongoing mammal monitoring.
+*	Optimise and expand the existing monitoring infrastructure, integrating bird and plant species alongside the ongoing mammal monitoring.
 *	Enhance local capacity to sustain ongoing biodiversity monitoring through training and knowledge transfer.
 *	Align monitoring efforts with international standards and best practices for biodiversity monitoring and assessment.
 
@@ -67,7 +69,7 @@ We organised introductory sessions in Enonkishu (for both the Enonkishu and Mbok
 
 ### Habitat Stratification and Mapping
 
-To ensure representative coverage of diverse habitats, the study area within the Northern Mara Conservancies was systematically stratified. Habitats were categorized into distinct types, including grasslands, shrublands, woodlands, and wetlands. Each stratum was treated as an independent unit for sampling. This stratified approach facilitated targeted data collection, ensuring that each habitat type was adequately represented in the study.
+To ensure representative coverage of diverse habitats, the study area within the Northern Mara Conservancies was systematically stratified. Habitats were categorised into distinct types, including grasslands, shrublands, woodlands, and wetlands. Each stratum was treated as an independent unit for sampling. This stratified approach facilitated targeted data collection, ensuring that each habitat type was adequately represented in the study.
 
 To map habitat types within the conservancies, we employed a combination of Google Earth Engine (GEE) and QGIS for data analysis and classification. The process began with the delineation of the area of interest (AOI), which encompassed the conservancies and an additional buffer zone. The buffer zone was incorporated to account for transitional land uses and edge effects, thus capturing a holistic picture of the landscape.
 
@@ -75,7 +77,7 @@ Landsat 8 Surface Reflectance imagery for the year 2023 was filtered to the AOI 
 
 To classify the habitat types, training data was prepared by merging feature collections that represented key habitats such as water, woodland, grassland, and shrubland. A Random Forest classifier was employed to classify the AOI, including the buffer zone, using spectral bands and vegetation indices. Model accuracy was validated through a split of training and testing datasets, ensuring reliability and robustness of the results. The final classified map was exported from GEE at a resolution of 30 meters.
 
-Further refinements were conducted in QGIS. The map's color scheme was optimized to visually distinguish habitat types, and essential elements such as labels and legends were added to enhance clarity. The inclusion of the buffer zone provided critical insights into transitional landscapes surrounding the conservancies. This final map serves as a foundational resource for understanding habitat dynamics, guiding conservation planning, and informing land-use decisions both within and beyond the conservancies.
+Further refinements were conducted in QGIS. The map's colour scheme was optimised to visually distinguish habitat types, and essential elements such as labels and legends were added to enhance clarity. The inclusion of the buffer zone provided critical insights into transitional landscapes surrounding the conservancies. This final map serves as a foundational resource for understanding habitat dynamics, guiding conservation planning, and informing land use decisions both within and beyond the conservancies.
 
 
 ![Northern Mara Conservancies' Habitat Types Map](images/Northern Mara.png)
@@ -84,7 +86,7 @@ Further refinements were conducted in QGIS. The map's color scheme was optimized
 
 Within the classified habitat strata, stratified random sampling was used to identify survey sites. This method ensured that key ecological features across habitat types were adequately represented, establishing a robust framework for biodiversity assessments. Sampling sites were further refined using Google Earth Pro to pinpoint and mark precise locations for sampling points and transects across the landscape.
 
-Monitoring sites were selected based on predefined criteria, ensuring comprehensive coverage of the ecological diversity within the conservancies. For bird surveys, line transects of approximately 3 kilometers were established for each habitat type, with at least two sites per habitat type in each conservancy. For vegetation monitoring, 1-kilometer transects were designed for each habitat type to adequately capture ecological variations across the landscape.
+Monitoring sites were selected based on predefined criteria, ensuring comprehensive coverage of the ecological diversity within the conservancies. For bird surveys, line transects of approximately 3 kilometres were established for each habitat type, with at least two sites per habitat type in each conservancy. For vegetation monitoring, 1-kilometre transects were designed for each habitat type to adequately capture ecological variations across the landscape.
 
 The refinement of site selection and monitoring strategies was significantly enhanced through close collaboration with local experts, including Albert Cheruiyot and Dapash Francis. Their extensive knowledge of the region’s habitats was instrumental in capturing the ecological complexity and ensuring the accessibility of monitoring sites. This collaborative effort also facilitated the integration of ground truth data, reinforcing the spatial accuracy and ecological relevance of our sampling strategies.
 
@@ -167,27 +169,23 @@ labels <- data.frame(
 * Large clear plastic bag (envelop) to protect data sheets from rain
 * GPS mobile field device/Compass
 *	Taxonomic keys including;
-
       - Photo-Guides
       - Mobile Apps
       - Field Handbooks, especially:
-
- 1. Field Guide to the Birds of Kenya and Northern Tanzania by Dale A. Zimmerman, David J. Pearson & Donald A. Turner
- 2. Birds of East Africa by Terry Stevenson and John Fanshawe
-
+ 1. Field Guide to the Birds of Kenya and Northern Tanzania by Dale A. Zimmerman, David J. Pearson & Donald A. 
+ 2. Birds of East Africa by Terry Stevenson and John Fanshawe.
  
 #### Survey Design
 Point count stations were located every 200 meters along each transect.
 At each station, observers conducted a 10-minute count.
 Conducted during peak activity periods:
 
-- Morning: 06:00 to 10:00 hours.
-- Afternoon: 16:00 to 18:00 hours.
-Surveys avoided adverse weather conditions that could affect bird activity or detectability.
+- Morning: 06:00 - 10:00 hours.
+- Afternoon: 16:00 - 18:00 hours.
 
-GPS coordinates and habitat characteristics were recorded at each point to contextualize findings.
+Surveys avoided adverse weather conditions that could affect bird activity or detectability.GPS coordinates and habitat characteristics were recorded at each point to contextualize findings.
 
-Observations were categorized by species, and counts included all individuals detected.
+Observations were categorised by species, and counts included all individuals detected.
 The point count datasheet facilitated the systematic observation of bird species. Parameters recorded included:
 
 -	Species Presence and Abundance: Number of individuals per species observed within the predefined point count.
@@ -197,14 +195,12 @@ The point count datasheet facilitated the systematic observation of bird species
 
 
 \newpage
-
 ####  Wetland Total Counts
 
 Given the ecological importance of wetlands as biodiversity hotspots, we employed total counts for all bird species within these habitats. Unlike point counts, this method entailed exhaustive surveys covering the entire wetland area. Observers systematically documented all visible bird species and their respective abundances, supported by binoculars and spotting scopes to improve detection accuracy.This ensured that wetlands were appropriately represented in the overall biodiversity assessment.
 
+
 ![Sample images taken during observation in wetland areas](images/wetland-observation.jpeg)
-
-
 
 - Calculate species richness for each wetland.
 - Compare species abundance across wetlands 
@@ -312,13 +308,13 @@ During this training, we covered fundamental topics, including:
 -	Transect setup: Detailed instructions on how to establish transects for both bird surveys and vegetation monitoring were demonstrated including other methods that were not used in this survey (e.g., mist nets).
 -	Identification Skills: Rangers were trained in identifying birds using various features such as size, shape, plumage, sounds, calls, behaviour, and habitat preferences. This skill is vital for accurate identification of species in monitoring and data collection.
 -	Guiding Books: Participants were introduced to various reference materials available for bird identification and habitat assessment, enhancing their resources for ongoing learning.
--	An important addition to the training was the linking of monitoring to global standards like IUCN, rangers were taken through how to check the IUCN Red List for assessing the conservation value of species identified in their areas. Understanding the status of species is crucial for prioritizing conservation actions and monitoring efforts.
+-	An important addition to the training was the linking of monitoring to global standards like IUCN, rangers were taken through how to check the IUCN Red List for assessing the conservation value of species identified in their areas. Understanding the status of species is crucial for prioritising conservation actions and monitoring efforts.
 
 The training underscored the significance of biodiversity monitoring in maintaining healthy ecosystems. By equipping rangers with these skills, we aim to foster a culture of continuous learning and engagement that enhances their effectiveness in conservation work. A list of participants is provided in the appendix for reference.
 
 ## Conclusion and Recommendations
 
-- Established monitoring program will contribute to understanding biodiversity trends and conservation impacts
+- Established monitoring programme will contribute to understanding biodiversity trends and conservation impacts
 - Results will be useful for conservation financing tools or initiatives
 - Trends will be identified based on ongoing assessments and expert consultations.
 
