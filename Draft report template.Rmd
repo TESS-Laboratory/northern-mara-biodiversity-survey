@@ -37,7 +37,7 @@ We would like to express our gratitude to the Oppenheimer Programme in African L
 
  A comprehensive survey was conducted to establish baseline data on avian and floral species composition within the Northern Mara Conservancies. The survey aimed to provide a foundational understanding of biodiversity in the region, guiding conservation efforts and land use planning. This report presents key findings derived from the data collected.
  
-Preliminary findings :
+**Preliminary findings** :A total of 412 floral species were recorded across the three conservancies, with Mbokishi having the highest diversity at 310, followed by Enonkishu with 203 species, and Olchoro with 196 species.
 
 ## Background
 The Northern Mara Conservancies (Enonkishu, Olchoro Oirouwa, and Mbokishi) collectively span approximately 32,928 acres, forming critical ecological zones  within the larger Mara-Serengeti ecosystem, renowned for its rich biodiversity and complex ecological interactions. These areas serve as a vital interface between biodiversity conservation and community-based land management, demonstrating how sustainable practices can foster coexistence between wildlife and human activities. 
@@ -239,40 +239,21 @@ The front page of the Avian Point Count Data Sheet used during the study is show
 
 \newpage
 
-### Vegetation Metrics (Quadrats on transect method)
+## Vegetation Metrics 
 
-Data on vegetation were recorded to assess habitat structure, species composition, and overall ecosystem health. The parameters collected included:
+### Survey Design
 
--	**Species Identification**: Plant species were recorded by their scientific names.
--	Canopy Cover: Estimated as a percentage to understand shading and structural complexity.
--	Tree Height: Estimated for structural profiling.
--	Ground Cover: Percentages of grass, bare soil, and other ground cover types were noted.
-Site Descriptions
-To provide context for the ecological data, general site parameters were also recorded:
+Plant diversity documentation entailed establishment of 1 km line transects, each containing five sampling plots measuring 20 x 20 meters, spaced 250 m apart from their center points. This resulted in a total of 55 sampling plots within the conservancies and an additional four control plots outside the conservancies. The transects were distributed as follows: three in Enonkishu, four in Mbokishi, and four in Olchoro conservancies. In addition to these, specific microhabitats such as wetlands were targeted for sampling, where five wetlands were surveyed without establishing fixed plots.
 
--	Coordinates: Each sampling point’s exact location was recorded.
--	Elevation: Measured using GPS on mobile devices
--	Photographic Evidence: Images of interesting bird species were captured for reference and also quadrats for vegetation samples were captured.
--	Disturbance Indicators: Signs of human activity, grazing, or natural disturbances (e.g., fire) were noted whenever present.
+Tree sampling included identifying and counting all trees within the 20 x 20 m plots, along with estimating canopy cover and tree height. Shrubs were sampled within one 10 x 10 m subplot nested in the larger plot, while herbaceous plants were sampled using four 1 x 1 m quadrats. The sampling plots captured data on plant species diversity, composition, and abundance, including records of dominant trees, shrubs, and herbs, individual species counts, and estimates of average height and cover. These attributes were used to classify different vegetation types.
 
-#### Survey Design
+Additional plant documentation was conducted outside the established sample plots to provide a comprehensive understanding of the ecosystem. A handheld GPS was used to georeference all sample plots/points and record their altitude. Species of conservation concern, including rare and threatened plants, were identified using information from the International Union for Conservation of Nature (IUCN) and the Convention on International Trade in Endangered Species (CITES) databases. Photographs were taken for further identification and reporting, and plant specimens were collected for identification and preservation at the East African Herbarium.
 
-Quadrat Dimensions: 20m × 20m
-Transect and quadrat locations were determined based on:
-
-- Habitat type
-- Accessibility for repeated monitoring.
-
-Species-specific data, including counts and heights for trees and shrubs, and abundance for herbaceous plants
-Photographs were taken of each quadrat from standardized angles for visual records.
+**Insert Transects, sample plots, point map here**
 
 \newpage
 
-#### Data collection
- 
- Discuss the procedure here 
- 
- 
+
  
 ![Sample images taken during vegetation sampling in Mbokishi](images/observation.jpeg)
 
@@ -283,26 +264,85 @@ Photographs were taken of each quadrat from standardized angles for visual recor
 #### Data forms
 
 
- Highlight major parameters captured by the data form
  
  
 ![ Front page of the Vegetation Sampling Data Sheet](images/vegetationdatasheet.jpg)
 
 
+\newpage
 
 ## Results/Findings
 
-- Total species counts,A total of xxxx avian species were recorded, xx/xxxx species are of the LC,EN,NT,VU,CR
-- Most abundant birds
 
-## Discussion
+### Floral Species diversity and composition
 
+A total of 412 plant species belonging to 71 families and 268 genera were recorded during the
+survey. Out of the total species recorded 384 were indigenous and 28 were exotic which include
+naturalized weeds, invasive, introduced ornamentals or hedge plants. Poaceae (Grass family) had
+the highest diversity with 63 species followed by Asteraceae (Sunflower family) with with 46
+species, Fabaceae (Legume family) with 43 species, Acanthaceae (Acanthus family) with 25 and
+Malvaceae (Cotton family) with 21 species, all the five families representing about 48% of the
+total species. The genus Cyperus was the most diverse with 13 species then followed by Indigofera with 9 species, then Acacia and Eragrostis both with 8 species each. 
+
+```{r,echo = FALSE, warning = FALSE}
+# Load required library
+# Define the data as vectors
+habit <- c("Trees", "Shrubs", "Herbs", "Climbers")
+percentage <- c(11, 11, 67, 11)
+colors <- c("#228B22", "#8B4513", "#ADFF2F", "#6A5ACD") # Custom color palette
+
+# Create a pie chart
+pie(
+  percentage,
+  labels = paste0(habit, " (", percentage, "%)"),
+  main = "Floral Habit Diversity as a Percentage",
+  col = colors # Use custom colors
+)
+
+
+```
+
+### Threats to the vegetation
+
+- Past clearing of indigenous forest to pave way for development was observed at Mbokish
+Conservancy settlement area and was evident due to presence of several tree stamps of
+Olea europaea and secondary bushes dominated by Croton dichogamus and Euclea spp.
+- Overgrazing by livestock was evident at Mbokishi conservancy settlement areas near
+bomas.
+- Improper disposal and introduction exotic hedge plants without expert consultation is
+leading to invasion into the natural vegetation thus interfering with the native species
+composition was observed at Enonkishu conservancy.
+- Invasion of by the alien invasive species such as Parthenium hysperophorus and Lantana
+camara was observed.
+
+![Tree stumps observed evidencing past clearing of indigenous forest](images/tree-stamps.jpeg)
+
+**Insert Invasive cactus Austrocylidropuntia subalata introduced exotic hedge plants now
+persisting at Enonkishu conservancy.**
+
+### Recommendations
+
+
+- Controlled development in the conservancies to reduce damage to vegetation.
+- Proper disposal of exotic hedge plants to avoid invasion into the natural habitat by
+uprooting and incineration.
+- Reduce introduction of exotic ornamental species by using indigenous plants for
+landscaping which should be guided by plant experts.
+- Manage the spread of invasive species such as Lantana camara (Tick Berry) by physical
+removal.
+
+
+### Conclusion
+
+The areas plant diversity is highly dependent on human intervention and natural factors such as
+edaphic and climatic conditions. High species diversity is expected after subsequent flora
+surveys. 
 
 \newpage
 
 ## Training and Capacity Building
 
-To enhance the capacity-building efforts for ground teams, we organised a half -day training for the rangers, to equip the rangers with the necessary skills and knowledge on transect set up  protocols, data and tools used in both avian and plants species monitoring.
+To enhance the capacity-building efforts for ground teams, we organised a half-day training for the rangers, to equip the rangers with the necessary skills and knowledge on transect set up  protocols, data and tools used in both avian and plants species monitoring.
 During this training, we covered fundamental topics, including:
 
 -	Transect setup: Detailed instructions on how to establish transects for both bird surveys and vegetation monitoring were demonstrated including other methods that were not used in this survey (e.g., mist nets).
@@ -317,5 +357,11 @@ The training underscored the significance of biodiversity monitoring in maintain
 - Established monitoring programme will contribute to understanding biodiversity trends and conservation impacts
 - Results will be useful for conservation financing tools or initiatives
 - Trends will be identified based on ongoing assessments and expert consultations.
+
+
+##Appendix I
+
+### Plants diversity checklist.
+### sampled transects plants composition, distribution and diversity checklist (to be shared with the conservancy teams)
 
 ## References
