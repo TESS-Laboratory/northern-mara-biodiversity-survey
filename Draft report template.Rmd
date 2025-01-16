@@ -251,6 +251,9 @@ Additional plant documentation was conducted outside the established sample plot
 
 **Insert Transects, sample plots, point map here**
 
+
+
+
 \newpage
 
 
@@ -359,7 +362,7 @@ The training underscored the significance of biodiversity monitoring in maintain
 - Trends will be identified based on ongoing assessments and expert consultations.
 
 
-##Appendix I
+## Appendix I
 
 ### Plants diversity checklist.
 ### sampled transects plants composition, distribution and diversity checklist (to be shared with the conservancy teams)
