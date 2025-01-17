@@ -26,6 +26,12 @@ h1 {
 
 \newpage
 
+\listoftables
+
+\listoffigures
+
+\newpage
+
 ## Acknowledgements
 
 This survey was conducted in the Northern Mara Conservancies by the following team: Oppenheimer Impact Scholar, Ms Milcah Kirinyet; Ornithologist, Mr John Musina; and Botanist, Mr Thomas Mwadime Nyange. The team received invaluable support from the Northern Mara Conservancies' management team and rangers, whose dedication and expertise greatly contributed to the success of this project.
@@ -40,6 +46,7 @@ We would like to express our gratitude to the Oppenheimer Programme in African L
 **Preliminary findings** :A total of 412 floral species were recorded across the three conservancies, with Mbokishi having the highest diversity at 310, followed by Enonkishu with 203 species, and Olchoro with 196 species.
 
 ## Background
+
 The Northern Mara Conservancies (Enonkishu, Olchoro Oirouwa, and Mbokishi) collectively span approximately 32,928 acres, forming critical ecological zones  within the larger Mara-Serengeti ecosystem, renowned for its rich biodiversity and complex ecological interactions. These areas serve as a vital interface between biodiversity conservation and community-based land management, demonstrating how sustainable practices can foster coexistence between wildlife and human activities. 
 
 Recent studies have further underscored the pivotal role of community conservancies in preserving wildlife populations within this region. Notably, a 2021 census by the Wildlife Research and Training Institute and the Kenya Wildlife Service revealed that over 83% of wildlife in the Maasai Mara were found in community conservancies. This finding highlights the growing importance of these areas as key players in biodiversity conservation and sustainable land management.
@@ -56,6 +63,7 @@ By creating a structured framework for data collection, our survey addresses gap
 
 
 ## Introduction
+
 The objectives of this survey were:
 
 *	Establish a comprehensive biomonitoring baseline for avian and floral species composition in the Northern Mara Conservancies
@@ -176,6 +184,7 @@ labels <- data.frame(
  2. Birds of East Africa by Terry Stevenson and John Fanshawe.
  
 #### Survey Design
+
 Point count stations were located every 200 meters along each transect.
 At each station, observers conducted a 10-minute count.
 Conducted during peak activity periods:
@@ -195,6 +204,7 @@ The point count datasheet facilitated the systematic observation of bird species
 
 
 \newpage
+
 ####  Wetland Total Counts
 
 Given the ecological importance of wetlands as biodiversity hotspots, we employed total counts for all bird species within these habitats. Unlike point counts, this method entailed exhaustive surveys covering the entire wetland area. Observers systematically documented all visible bird species and their respective abundances, supported by binoculars and spotting scopes to improve detection accuracy.This ensured that wetlands were appropriately represented in the overall biodiversity assessment.
@@ -214,11 +224,7 @@ Given the ecological importance of wetlands as biodiversity hotspots, we employe
 #### Data collection
 
 
-#### Data forms
 
-The front page of the Avian Point Count Data Sheet used during the study is shown below:
-
-![Front page of the Avian Point Count Data Sheet](images/aviandatasheet.jpg)
 
 
 
@@ -241,6 +247,64 @@ The front page of the Avian Point Count Data Sheet used during the study is show
 
 ## Vegetation Metrics 
 
+### Vegetation classification 
+
+The study area’s plant cover is predominantly secondary in nature and consists of three main 
+vegetation types namely; bushland, grassland and forest, other microhabitats include different 
+wetland types such as seasonal and permanent water pools/marsh and seepages. 
+
+#### Bushland
+
+The study area comprise of three main bushland types namely; Semi-evergreen bushland 
+dominated by Tarchonanthus camphoratus, Psiadia punctulata, Euclea spp., Croton dichogamus 
+and Searsia crenulata that is edaphically restricted to rocky hill slopes and grassy hill bases and generally representing the climax vegetation. Secondary evergreen bushland dominated with 
+Euclea divinorum is the vegetation type that forms the ecotone between upland evergreen dry 
+forest patches and open grasslands, Croton dichogamus dominated semi-evergreen 
+bushland/thicket forming at edges of Tarchonanthus bushland and upland dry forest is a sign of 
+high degradation. All these habitats had variations in species composition observed at different sample points, these variations were greatly influenced by edaphic, climate, weather (Abiotic factors) and human, livestock and wildlife (Biotic factors). 
+
+**add the photos here**
+
+#### Grassland 
+
+Grasslands consist of vast areas dominated mainly by grass and in our study area are generally 
+secondary in nature due to past human interference mainly for settlement, crop land and 
+livestock pasture lands and also co-existing with wildlife. Variations in species composition was 
+observed at different sampling areas resulting in four categories of grassland types namely; 
+wooded grassland with Balanites aegyptiaca as the dominant trees, bushed grassland with 
+Euclea divinorum or Tarchonanthus as the main bushes, open scattered tree grassland with 
+Balanites aegyptiaca and Acacia gerrardii as the main tree while Sporobolus pyramidalis and 
+Themeda triandra as dominant grass species and “fallow land” is a secondary grassland type 
+represented by the recently abandoned croplands for the purpose of wildlife conservation with 
+very short grass and consist of overgrazed land dominated with Chloris pycnothrix, Cynodon 
+dactylon, Digitaria abyssinica, Trifolium semipilosum, Solanum campylacanthum and 
+Dyschoriste radicans and many naturalized exotic weed species.
+
+**add photos here**
+
+#### Forest 
+
+This vegetation type consists of an assemblage of trees with a continuous interlocking canopy 
+and constitutes about 10-20% percent of the plant cover of the study area. This plant community was identified as Upland evergreen dry forest and is mainly dominated by Diospyros abyssinica, 
+Euclea divinorum and Warburgia ugandensis as the upper canopy species while Croton 
+dichogamus as the dominant understory shrub, variations in species composition was observed 
+with increase in moisture and edaphic factors. The moistier type consisted of Diospyros 
+abyssinica and Warburgia ugandensis as the dominant upper canopy species with justicia spp. as 
+the under story herb species while the much drier type consisted of Olea and Diospyros as 
+dominant upper canopy species and Hypoestes forskaolii and Setaria megaphylla   as the 
+dominant herbaceous species. 
+
+**add photos here**
+
+#### Wetlands 
+
+These are permanently or seasonally wet grounds that constitute plant assemblages with unique 
+plants that are adapted to waterlogged environments. These form part of the microhabitats that 
+include different wetland types such as seasonal and permanent water pools/marsh, man-made 
+dams and seepages. 
+
+**add photos here**
+
 ### Survey Design
 
 Plant diversity documentation entailed establishment of 1 km line transects, each containing five sampling plots measuring 20 x 20 meters, spaced 250 m apart from their center points. This resulted in a total of 55 sampling plots within the conservancies and an additional four control plots outside the conservancies. The transects were distributed as follows: three in Enonkishu, four in Mbokishi, and four in Olchoro conservancies. In addition to these, specific microhabitats such as wetlands were targeted for sampling, where five wetlands were surveyed without establishing fixed plots.
@@ -256,26 +320,11 @@ Additional plant documentation was conducted outside the established sample plot
 
 \newpage
 
-
- 
 ![Sample images taken during vegetation sampling in Mbokishi](images/observation.jpeg)
-
-
-\newpage
-
-
-#### Data forms
-
-
- 
- 
-![ Front page of the Vegetation Sampling Data Sheet](images/vegetationdatasheet.jpg)
-
 
 \newpage
 
 ## Results/Findings
-
 
 ### Floral Species diversity and composition
 
@@ -287,7 +336,7 @@ species, Fabaceae (Legume family) with 43 species, Acanthaceae (Acanthus family)
 Malvaceae (Cotton family) with 21 species, all the five families representing about 48% of the
 total species. The genus Cyperus was the most diverse with 13 species then followed by Indigofera with 9 species, then Acacia and Eragrostis both with 8 species each. 
 
-```{r,echo = FALSE, warning = FALSE}
+```{r floral-habit-pie-chart, echo=FALSE, warning=FALSE, fig.cap=" Floral Habit Diversity as a Percentage"}
 # Load required library
 # Define the data as vectors
 habit <- c("Trees", "Shrubs", "Herbs", "Climbers")
@@ -298,12 +347,36 @@ colors <- c("#228B22", "#8B4513", "#ADFF2F", "#6A5ACD") # Custom color palette
 pie(
   percentage,
   labels = paste0(habit, " (", percentage, "%)"),
-  main = "Floral Habit Diversity as a Percentage",
+  main = " ",
   col = colors # Use custom colors
 )
-
-
 ```
+
+\newpage
+
+### Invasive species 
+
+These are introduced non-native or native plants that adversely affect the habitats they invade economically, environmentally and ecologically. Eight invasive plants were recorded during the 
+survey.
+
+\begin{table}[H]
+\centering
+\caption{ List of Invasive Species and their Habit}
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Family} & \textbf{Species} & \textbf{Habit} \\ \hline
+Asteraceae & \textit{Parthenium hysterophorus L.} & Herb \\ \hline
+Asteraceae & \textit{Senecio madagascariensis Poir.} & Herb \\ \hline
+Asteraceae & \textit{Xanthium strumarium L.} & Herb \\ \hline
+Cactaceae & \textit{Austrocylindropuntia subulata (Muehlenpf.) Backeb.} & Shrub \\ \hline
+Cactaceae & \textit{Opuntia ficus-indica (L.) Mill.} & Shrub \\ \hline
+Fabaceae & \textit{Caesalpinia decapetala (Roth) Alston} & Shrub \\ \hline
+Solanaceae & \textit{Datura stramonium L.} & Herb \\ \hline
+Verbenaceae & \textit{Lantana camara L.} & Shrub \\ \hline
+\end{tabular}
+\end{table}
+
+**add photos here of invasive plants**
 
 ### Threats to the vegetation
 
@@ -323,8 +396,17 @@ camara was observed.
 **Insert Invasive cactus Austrocylidropuntia subalata introduced exotic hedge plants now
 persisting at Enonkishu conservancy.**
 
-### Recommendations
 
+#### Discussion
+
+A total of 412 species were recorded during the survey and is quite impressive in relation to its size. A total of 384 are indigenous and 28 are exotic which represents a small fraction of the total flora which are either naturalized, introduced ornamentals or alien invasive species 
+constituted less than 10% of the total plants recorded. The plant diversity is considered 
+significant despite the fact that most of the study area has undergone some habitat degradation. 
+
+Mbokishi had highest diversity due to most of its vegetation is secondary in nature especially 
+recently abandoned cropland with very high diversity of naturalized exotic weeds, the permanent wetland at Chali Chali base camp also highly contributed to its diversity where as Enonkishu and Olchoro had great similarity with more homogenous old grasslands, with bushlands and forests forming climax vegetation. Poaceae (Grass family) had the highest diversity with 63 species followed Asteraceae (Sunflower family) with 46 species then Fabaceae (Legume family) by with 43 species, Acanthaceae (Acanthus family) with 25 species and Malvaceae (Cotton family) with 21 species, all the five families representing about 48% of the total species and thus playing a very important role in understanding the role they play in this important ecosystems and adjacent environs. The vegetation diversity and composition across most of the habitats sampled was highly dependent on human interference, most of the present vegetation is as result of secondary regeneration after the original forests were cleared to pave way for settlement, crop cultivation and livestock keeping. Its vegetation is host to several CITES species and its preservation will ensure protection of these important species of flora and fauna it hosts and the entire ecosystem.  The established sample plots will be used to monitor plants diversity and composition dynamics over time.
+
+### Recommendations
 
 - Controlled development in the conservancies to reduce damage to vegetation.
 - Proper disposal of exotic hedge plants to avoid invasion into the natural habitat by
@@ -361,10 +443,22 @@ The training underscored the significance of biodiversity monitoring in maintain
 - Results will be useful for conservation financing tools or initiatives
 - Trends will be identified based on ongoing assessments and expert consultations.
 
+\newpage
 
 ## Appendix I
 
+### Data forms
+
+The front pages of the data Sheets used during the study are shown below:
+
+![Front page of the Avian Point Count Data Sheet](images/aviandatasheet.jpg)
+
+![ Front page of the Vegetation Sampling Data Sheet](images/vegetationdatasheet.jpg)
+
+\newpage
+
 ### Plants diversity checklist.
+
 ### sampled transects plants composition, distribution and diversity checklist (to be shared with the conservancy teams)
 
 ## References
