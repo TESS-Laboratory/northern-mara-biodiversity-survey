@@ -368,14 +368,20 @@ Tree sampling included identifying and counting all trees within the 20 x 20 m p
 
 Additional plant documentation was conducted outside the established sample plots to provide a comprehensive understanding of the ecosystem. A handheld GPS was used to georeference all sample plots/points and record elevation. Species of conservation concern, including rare and threatened plants, were identified using information from the International Union for Conservation of Nature (IUCN) and the Convention on International Trade in Endangered Species (CITES) databases. Photographs were taken for further identification and reporting, and plant specimens were collected for identification and preservation at the East African Herbarium.
 
-![Established floral transect locations](images/floraltransectlocations.png)
-
-
-
+![Transect plots and quadrats setup](images/transect setup.png)
 
 \newpage
 
-![Sample images taken during vegetation sampling in Mbokishi](images/observation.jpeg)
+![Established floral transect locations](images/floraltransectlocations.png)
+
+\begin{figure}[H]
+\centering
+\begin{tabular}{cc}
+\includegraphics[width=0.45\textwidth]{images/observation.jpeg} &
+\includegraphics[width=0.45\textwidth]{images/observation1.JPG} \\
+\end{tabular}
+\caption{Sample images taken during vegetation sampling.}
+\end{figure}
 
 \newpage
 
