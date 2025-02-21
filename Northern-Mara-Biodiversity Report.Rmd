@@ -45,9 +45,9 @@ This survey was conducted in the Northern Mara Conservancies by the following te
 
 This report  presents a summary of a comprehensive survey that was conducted in the Northern Mara Conservancies to establish baseline data on avian and floral species composition. The survey aimed to provide a foundational understanding of biodiversity in the region, guiding conservation efforts and land use planning. This report presents key findings derived from the data collected.
  
-A total of 412 floral species were recorded across the three conservancies, with Mbokishi having the highest diversity at 310, followed by Enonkishu with 203 species, and Olchoro with 196 species.A total of 384 are indigenous and 28 are exotic which represents a small fraction of the total flora which are either naturalized, introduced ornamentals or alien invasive species. Eight invasive plants were recorded during the survey. Plant species included in IUCN Red list and CITES database were considered as species of conservation priority in this survey.
+The survey recorded a total of 412 floral species across the three conservancies, with Mbokishi having the highest diversity at 310 species, followed by Enonkishu with 203 species, and Olchoro Oirouwa with 196 species. A total of 384 species are indigenous, and 28 are exotic, representing a small fraction of the total flora, which includes naturalized, introduced ornamental, or alien invasive species. Eight invasive plants were recorded during the survey. Plant species included in the IUCN Red List and CITES database were considered conservation priorities in this survey.
 
-We recorded one hundred and eighty-seven (187) species of birds from 54 families,twelve (12) species were listed as threatened in the IUCN Red List.Two species of vultures, Ruppell’s Griffon Vulture *Gyps rueppellii* and White-backed Griffon Vulture *Gyps africanus* classified as **Critically Endangered**.  Six (6) species including Secretarybird *Sagittarius serpentarius* and Grey Crowned Crane *Balearica regulorum* classified as **Endangered**.  One (1) species, Tawny Eagle *Aquila rapax* classified as **Vulnerable** and two (2) species, Crowned Eagle *Stephanoaetus coronatus* and Eurasian Roller *Coracias garrulus* classified as **Near Threatened**.
+We recorded 187 species of birds from 54 families. Twelve species were listed as threatened in the IUCN Red List. Two species of vultures, Ruppell’s Griffon Vulture (*Gyps rueppellii*) and White-backed Griffon Vulture (*Gyps africanus*), are classified as **Critically Endangered**. Six species, including Secretarybird (*Sagittarius serpentarius*) and *Grey Crowned Crane* (*Balearica regulorum*), are classified as **Endangered**. One species, Tawny Eagle (*Aquila rapax*), is classified as **Vulnerable**, and two species, Crowned Eagle (*Stephanoaetus coronatus*) and Eurasian Roller (*Coracias garrulus*), are classified as **Near Threatened**.
 
 ## Background
 
@@ -59,8 +59,6 @@ While these conservancies are recognized for their contributions to wildlife con
 
 The recent baseline survey is particularly timely and significant for newer conservancies like Mbokishi that have not yet undergone extensive ecological assessments, further contributing to the data gap. This survey provides an essential opportunity to establish baseline data on its biodiversity, particularly focusing on avian and plant species, while considering the vital role of habitat in shaping the distribution and abundance of bird species.
 
-\newpage
-
 This baseline survey builds upon the foundational work initiated by Biosphere Expeditions during their 2020 survey in Enonkishu (Lee et al., 2020). That study documented over 230 bird species using the Southern African Bird Atlas Project (SABAP2) protocol, underscoring Enonkishu's role as a habitat for various avian populations, including endangered and migratory species. The findings emphasised the necessity for systematic monitoring to understand bird population dynamics and their interactions with land use patterns. The Biosphere Expeditions report from Enonkishu emphasised the critical need for systematic monitoring to better understand bird populations and their interactions with land use patterns. This indicates a broader gap in ecological data across the conservancies.
 
 The Biosphere Expeditions report also laid the groundwork for understanding plant biodiversity through preliminary inventories. It highlighted the importance of grasslands and woodlands in sustaining habitat quality for both wildlife and livestock while revealing significant gaps in data regarding plant species composition, grassland health, and the prevalence of invasive species. 
@@ -68,6 +66,8 @@ The Biosphere Expeditions report also laid the groundwork for understanding plan
 By creating a structured framework for data collection, our survey addresses gaps identified in earlier research and recommendations to extend surveys to cover a larger geographical area, ensuring that future studies can compare data over time and assess trends effectively. Continuous monitoring through these transects is vital for assessing the health and resilience of the ecosystems within the conservancies. Long-term data will provide insights into species abundance, diversity, and habitat conditions, which are essential for informed conservation strategies and land management practices.
 
 Central to the success and sustainability of this monitoring effort is capacity building, ensuring that local stakeholders are equipped with the necessary skills and knowledge to carry out long-term biodiversity monitoring independently. By fostering expertise in data collection, management, and interpretation, we strengthen local engagement and ownership of conservation efforts. This investment in skills development not only enhances the quality and reliability of ecological data but also ensures that monitoring remains an ongoing, community-driven process that supports adaptive conservation and land management strategies well into the future.
+
+\newpage
 
 ## Introduction
 
@@ -111,7 +111,12 @@ The refinement of site selection and monitoring strategies was significantly enh
 
 ### Avian Metrics (Point counts on line transect method)
 
-We used Point Counts on Line Transects to estimate the relative abundance and species diversity in three representative habitats namely; grassland, shrubland and forest.  We also recorded opportunistic sightings to augment the species list of the general ecosystem.
+We used Point Counts on Line Transects to estimate the relative abundance and species diversity in three representative habitats namely; grassland, shrubland and forest. We also recorded opportunistic sightings to augment the species list of the general ecosystem.
+
+We covered a total of ten line transects, three in Enonkishu, three in Mbokishi and four in Olchoro Oirouwa conservancy.  The transect were laid in three major habitat types; grassland, shrubland and forest.
+
+#### Survey Design
+At the Point Counts, we worked on the maxim that if you stand at one point, it is possible to count all the birds seen and heard.Point Counts were used to estimate the relative abundance and species diversity. Twelve Point Counts were performed at least once along a line transect laid in a grassland, shrubland or forest in the three conservancies.  In addition, two Point Counts were conducted in Emarti settlement and farmlands and a farmland located at the eastern border of Mbokishi.  All birds seen or heard were recorded at each census station located after every 200 m along the line transect.  Also recorded were the number, behavior and its niche at the time of observation.  In addition, simple habitat and environmental variables at the beginning of each count such as cloud cover (percentage of sky covered), wind (general direction), temperature (cold, warm or hot) and broad habitat type were recorded. The changes in habitat types during the PCs were noted down.
 
 ```{r, r, echo = FALSE, warning = FALSE, fig.cap = "Transect line with sample points"}
 library(ggplot2)
@@ -175,14 +180,17 @@ labels <- data.frame(
 
 ```
 
-#### Materials used
+\newpage
 
+#### Materials used
 *	Binoculars 
 *	Spotting scope and sturdy tripod (for wietlands)
 *	Field data sheets and field notebook
 *	Clipboard, pencil and eraser
 * Large clear plastic bag (envelop) to protect data sheets from rain
 * GPS mobile field device/Compass
+* Stopwatch
+* Cameras (photographs) 
 *	Taxonomic keys including;
       - Photo-Guides
       - Mobile Apps
@@ -190,32 +198,9 @@ labels <- data.frame(
  1. Field Guide to the Birds of Kenya and Northern Tanzania by Dale A. Zimmerman, David J. Pearson & Donald A. 
  2. Birds of East Africa by Terry Stevenson and John Fanshawe.
  
-#### Survey Design
+#### Opportunistic sightings
 
-Point count stations were located every 200 meters along each transect.
-At each station, observers conducted a 10-minute count.
-Conducted during peak activity periods:
-
-- Morning: 06:00 - 10:00 hours.
-- Afternoon: 16:00 - 18:00 hours.
-
-Surveys avoided adverse weather conditions that could affect bird activity or detectability.GPS coordinates and habitat characteristics were recorded at each point to contextualize findings.
-
-Observations were categorised by species, and counts included all individuals detected.
-The point count datasheet facilitated the systematic observation of bird species. Parameters recorded included:
-
--	Species Presence and Abundance: Number of individuals per species observed within the predefined point count.
--	Time Intervals: Observations were segmented into time intervals of 10 minutes. 
--	Environmental Conditions: Weather data (temperature, wind speed, cloud cover) and time of day were recorded  to contextualize species activity.
--	Habitat Associations: Notes were taken on vegetation or landscape features surrounding the observation point.
-
-
-\newpage
-
-####  Wetland Total Counts
-
-Given the ecological importance of wetlands as biodiversity hotspots, we employed total counts for all bird species within these habitats. Unlike point counts, this method entailed exhaustive surveys covering the entire wetland area. Observers systematically documented all visible bird species and their respective abundances, supported by binoculars and spotting scopes to improve detection accuracy.This ensured that wetlands were appropriately represented in the overall biodiversity assessment.
-
+We made observations for birds in different habitats found within the three conservancies.  We made these observations at all times when not conducting Point Counts.  From our base camp at Mara Training Center, we covered areas to the east towards Mbokishi and to the west towards Ol Chorro.  We recorded species that we saw or heard and the habitat in which they occurred.  For waterbirds, we looked for birds in both permanent and seasonal wetlands within the conservancies.  We used these search data to update the species list.
 
 \begin{figure}[h!]
 \centering
@@ -226,19 +211,19 @@ Given the ecological importance of wetlands as biodiversity hotspots, we employe
 \caption{Sample images taken during observations in wetland areas. }
 \end{figure}
 
-- Calculate species richness for each wetland.
-- Compare species abundance across wetlands 
-- Identify wetland-dependent and conservation-priority species.
-
 \newpage
 
-#### Opportunistic bird sightings (to build the species list)
+#### Results
 
+Overall, we recorded a total of **one hundred and eighty-seven** species of birds from fifty-four families. **link to the checklist**. This list includes globally threatened species, long distance migrants and species that are partially or fully dependent on forest habitats. Twelve species were listed as threatened in the IUCN Red List. Two species of vultures, Ruppell’s Griffon Vulture (*Gyps rueppellii*) and White-backed Griffon Vulture (*Gyps africanus*), are classified as **Critically Endangered**. Six species, including Secretarybird (*Sagittarius serpentarius*) and Grey Crowned Crane (*Balearica regulorum*), are classified as **Endangered**. One species, Tawny Eagle (*Aquila rapax*), is classified as **Vulnerable**, and two species, Crowned Eagle (*Stephanoaetus coronatus*) and Eurasian Roller (*Coracias garrulus*), are classified as **Near Threatened**.
 
-#### Data collection
+We recorded forty-three migratory species from twenty-one families. Thirty-one were long-distance Palaearctic migrants. These included Black Stork (*Ciconia nigra*), European Honey Buzzard (*Pernis apivorus*), Willow Warbler (*Phylloscopus trochilus*) and Isabelline Wheatear (*Oenanthe isabellinus*). Eleven species, including Black-winged Stilt (*Himantopus himantopus*) and Squacco Heron (*Ardeola ralloides*), migrate within continental Africa.
 
+Among terrestrial birds, fifty species from twenty-four families were forest birds. These included: Crowned Eagle (*Stephanoaetus coronatus*), Ayres’s Hawk Eagle (*Aquila ayresii*) and Cinnamon-chested Bee-eater (*Merops oreobates*). We recorded a total of thirty-eight species of waterbirds from thirteen families. Some of them, such as Ruff (*Philomachus pugnax*) and Common Snipe (*Gallinago gallinago*), migrate from the Palaearctic region.
 
-#### Analysis
+In all the three conservancies, most species were rare with a few common ones. The highest species diversity of grassland and forest birds was in Mbokishi, closely followed by Enonkishu. The highest species diversity of shrubland birds was in Enonkishu. Overall, species diversity was lowest in Olchoro Oirouwa for grassland, shrubland and forest birds.
+
+We recommend a common habitat and species conservation strategy for the Enonkishu – Mbokishi – Olchoro Oirouwa ecosystem. As part of the strategy, there will be an integrated biodiversity monitoring framework involving conservancy scouts, biodiversity experts, wildlife managers, and local communities. In addition, the three conservancies can work with the relevant government agencies to make linear infrastructure such as electricity distribution lines and roads safe for birds and other wildlife.
 
 ##### Avian Abundance and Species Richness
 
@@ -247,7 +232,77 @@ Given the ecological importance of wetlands as biodiversity hotspots, we employe
 - Use mean counts per point to estimate population densities by species.
 - Identify species strongly associated with specific habitats
 
-##### Rare, Threatened, and Endangered Species
+\newpage
+
+##### 	Threatened Speciess
+
+The IUCN categorizes species of birds through its Red List with the aim of assessing their conservation status and identifying which ones are most at risk of extinction.  The IUCN Red List categories are widely understood for classifying species at risk of extinction globally.  The Categories are;  Extinct, Extinct in the Wild, Critically Endangered, Endangered, Vulnerable, Near Threatened, Least Concern, Data Deficient and Not Evaluated.  Species of birds that are classified as Critically Endangered, Endangered, Vulnerable or Near Threatened have shown evidence for rapid decline in their populations across their home range.  We recorded twelve (12) globally threatened species, with eight of them either Critically Endangered or Endangered.
+
+\begin{table}[H]
+\centering
+\caption{List of Bird Species and Their IUCN Status}
+\begin{tabular}{l l l l}
+\hline
+\textbf{Common Name} & \textbf{Scientific Name} & \textbf{IUCN Status} & \textbf{Migratory Status} \\ \hline
+Lesser Flamingo & \textit{Phoeniconaias minor} & Near Threatened & am \\ 
+Secretarybird & \textit{Sagittarius serpentarius} & Endangered &  \\ 
+White-backed Vulture & \textit{Gyps africanus} & Critically Endangered &  \\ 
+Rüppell's Vulture & \textit{Gyps rueppellii} & Critically Endangered &  \\ 
+Lappet-faced Vulture & \textit{Torgos tracheliotus} & Endangered &  \\ 
+Bateleur & \textit{Terathopius ecaudatus} & Endangered &  \\ 
+Tawny Eagle & \textit{Aquila rapax} & Vulnerable &  \\ 
+Steppe Eagle & \textit{Aquila nepalensis} & Endangered & PM \\ 
+Martial Eagle & \textit{Polemaetus bellicosus} & Endangered &  \\ 
+Crowned Eagle & \textit{Stephanoaetus coronatus} & Near Threatened &  \\ 
+Grey Crowned Crane & \textit{Balearica regulorum} & Endangered &  \\ 
+Eurasian Roller & \textit{Coracias garrulus} & Near Threatened & PM \\ \hline
+\end{tabular}
+\end{table}
+
+####	Forest dependent birds
+
+Forests are essential to birds because they provide shelter such as cavities for cavity-nesting birds such as woodpeckers and parrots, food such as insects and fruits for insectivores and frugivores and roosting places.  Bennun et al. (1996) attempted to characterize the role of East African forests in avian conservation by categorizing birds found in our region according to the varying levels at which they depend on forests.  They introduced three categories;  FF or forest specialist, for those species that spent their entire life cycle in the forest interior, F or forest generalists, for species that are found both in the forest interior and at the edge and f or forest visitors, for species that visit forests but are not entirely dependent on it.  We recorded at fifty (50) forest dependent species from twenty-four (24) families.  Below (Table 3) is a list of forest specialists (FF) and forest generalists (F) recorded, out which five (5) were birds of prey.
+
+\begin{figure}[h!]
+\centering
+\begin{tabular}{cc}
+\includegraphics[width=0.45\textwidth]{images/forestbird1.JPG} &
+\includegraphics[width=0.45\textwidth]{images/forestbird2.JPG} \\
+\end{tabular}
+\caption{Forest dependent birds, Schalow’s Turaco and Cinnamon-chested Bee-eater.}
+\end{figure}
+
+\begin{table}[H]
+\centering
+\caption{List of Bird Species and Their Forest Dependency}
+\begin{tabular}{l l l}
+\hline
+\textbf{Common Name} & \textbf{Scientific Name} & \textbf{Forest Dependency} \\ \hline
+European Honey Buzzard & \textit{Pernis apivorus} & F \\ 
+African Goshawk & \textit{Accipiter tachiro} & F \\ 
+Great Sparrowhawk & \textit{Accipiter melanoleucus} & F \\ 
+Ayres's Hawk Eagle & \textit{Aquila ayresii} & F \\ 
+Crowned Eagle & \textit{Stephanoaetus coronatus} & FF \\ 
+Tambourine Dove & \textit{Turtur tympanistria} & F \\ 
+Schalow's Turaco & \textit{Tauraco schalowi} & F \\ 
+Narina Trogon & \textit{Apaloderma narina} & F \\ 
+Cinnamon-chested Bee-eater & \textit{Merops oreobates} & F \\ 
+Yellow-rumped Tinkerbird & \textit{Pogoniulus bilineatus} & F \\ 
+Black-backed Puffback & \textit{Dryoscopus cubla} & F \\ 
+Blackcap & \textit{Sylvia atricapilla} & F \\ 
+Ashy Flycatcher & \textit{Muscicapa caerulescens} & F \\ 
+African Dusky Flycatcher & \textit{Muscicapa adusta} & F \\ 
+Collared Sunbird & \textit{Hedydipna collaris} & F \\ \hline
+\end{tabular}
+\end{table}
+
+####	Migratory species
+
+Every year, millions of birds migrate across Africa.  Nearly 200 species migrate regularly from Europe and Asia to Africa south of the Sahara.  They follow the East African – Eurasian flyway, a route with key stop over sites for waterbirds, land birds and birds of prey.  It is estimated that over 1.5 million birds from at least 37 families migrate through this flyway.  In Kenya, out of the over 1100 species that occur here, at least 160 are classified as long-distance migrants from the Palaearctic region.  We recorded a total of forty-three (43) migratory species from 21 families (Table 2).  They include waterbirds such as the Black Stork Ciconia nigra and White Stork Ciconia ciconia, landbirds such as Northern Wheatear Oenanthe oenanthe and Pied Wheatear Oenanthe pleschanka and birds of prey such as European Honey Buzzard Pernis apivorus and Montagu’s Harrier Circus pygargus.  These species migrate from parts of northern Europe and Russia to Africa.
+
+####	Waterbirds
+
+Wetlands are vital to birds, because just like forests, they provide food, shelter and nesting places.  Wetlands are also important stop-over sites for migratory birds.  We recorded a total of thirty-eight (38) waterbirds in the natural and man-made wetlands in the Enonkishu – Mbokishi – Ol Chorro ecosystem.  Out of which sixteen (16) species migrate either within Africa or between Africa, Europe and parts of Asia.
 
 #### Challenges faced : habitat type and elevation
 
@@ -307,7 +362,7 @@ dams and seepages.
 
 ### Survey Design
 
-Plant diversity documentation entailed establishment of 1 km line transects, each containing five sampling plots measuring 20 x 20 meters, spaced 250 m apart from their center points. This resulted in a total of 55 sampling plots within the conservancies and an additional four control plots outside the conservancies. The transects were distributed as follows: three in Enonkishu, four in Mbokishi, and four in Olchoro conservancies. In addition to these, specific microhabitats such as wetlands were targeted for sampling, where five wetlands were surveyed without establishing fixed plots.
+Plant diversity documentation entailed establishment of 1 km line transects, each containing five sampling plots measuring 20 x 20 meters, spaced 250 m apart from their center points. This resulted in a total of 55 sampling plots within the conservancies and an additional four control plots outside the conservancies. The transects were distributed as follows: three in Enonkishu, four in Mbokishi, and four in Olchoro Oirouwa conservancies. In addition to these, specific microhabitats such as wetlands were targeted for sampling, where five wetlands were surveyed without establishing fixed plots.
 
 Tree sampling included identifying and counting all trees within the 20 x 20 m plots, along with estimating canopy cover and tree height. Shrubs were sampled within one 10 x 10 m subplot nested in the larger plot, while herbaceous plants were sampled using four 1 x 1 m quadrats. The sampling plots captured data on plant species diversity, composition, and abundance, including records of dominant trees, shrubs, and herbs, individual species counts, and estimates of average height and cover. These attributes were used to classify different vegetation types.
 
@@ -500,7 +555,7 @@ constituted less than 10% of the total plants recorded. The plant diversity is c
 significant despite the fact that most of the study area has undergone some habitat degradation. 
 
 Mbokishi had highest diversity due to most of its vegetation is secondary in nature especially 
-recently abandoned cropland with very high diversity of naturalized exotic weeds, the permanent wetland at Chali Chali base camp also highly contributed to its diversity where as Enonkishu and Olchoro had great similarity with more homogenous old grasslands, with shrublands and forests forming climax vegetation. Poaceae (Grass family) had the highest diversity with 63 species followed Asteraceae (Sunflower family) with 46 species then Fabaceae (Legume family) by with 43 species, Acanthaceae (Acanthus family) with 25 species and Malvaceae (Cotton family) with 21 species, all the five families representing about 48% of the total species and thus playing a very important role in understanding the role they play in this important ecosystems and adjacent environs. The vegetation diversity and composition across most of the habitats sampled was highly dependent on human interference, most of the present vegetation is as result of secondary regeneration after the original forests were cleared to pave way for settlement, crop cultivation and livestock keeping. Its vegetation is host to several CITES species and its preservation will ensure protection of these important species of flora and fauna it hosts and the entire ecosystem.  The established sample plots will be used to monitor plants diversity and composition dynamics over time.
+recently abandoned cropland with very high diversity of naturalized exotic weeds, the permanent wetland at Chali Chali base camp also highly contributed to its diversity where as Enonkishu and Olchoro Oirouwa had great similarity with more homogenous old grasslands, with shrublands and forests forming climax vegetation. Poaceae (Grass family) had the highest diversity with 63 species followed Asteraceae (Sunflower family) with 46 species then Fabaceae (Legume family) by with 43 species, Acanthaceae (Acanthus family) with 25 species and Malvaceae (Cotton family) with 21 species, all the five families representing about 48% of the total species and thus playing a very important role in understanding the role they play in this important ecosystems and adjacent environs. The vegetation diversity and composition across most of the habitats sampled was highly dependent on human interference, most of the present vegetation is as result of secondary regeneration after the original forests were cleared to pave way for settlement, crop cultivation and livestock keeping. Its vegetation is host to several CITES species and its preservation will ensure protection of these important species of flora and fauna it hosts and the entire ecosystem.  The established sample plots will be used to monitor plants diversity and composition dynamics over time.
 
 ### Recommendations
 
