@@ -1,4 +1,4 @@
-TransectName,TransectType,Latitude,Longitude,Altitude,TransectID,SamplePoint
+TransectName,TransectType,Latitude,Longitude,Elevation,TransectID,SamplePoint
 ENOT1P1G,Grassland,-1.07732,35.21981,1697,ENOT1,P1
 ENOT1P2G,Grassland,-1.0781,35.22192,1697,ENOT1,P2
 ENOT1P3G,Grassland,-1.07879,35.22406,1700,ENOT1,P3
