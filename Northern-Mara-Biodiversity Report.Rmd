@@ -109,14 +109,13 @@ The refinement of site selection and monitoring strategies was significantly enh
 
 ## Field Surveys
 
-### Avian Metrics (Point counts on line transect method)
+### Avian Metrics 
 
-We used Point Counts on Line Transects to estimate the relative abundance and species diversity in three representative habitats namely; grassland, shrubland and forest. We also recorded opportunistic sightings to augment the species list of the general ecosystem.
-
-We covered a total of ten line transects, three in Enonkishu, three in Mbokishi and four in Olchoro Oirouwa conservancy.  The transect were laid in three major habitat types; grassland, shrubland and forest.
+We used Point Counts on Line Transects to estimate the relative abundance and species diversity in three representative habitats namely; grassland, shrubland and forest. We also recorded opportunistic sightings to augment the species list of the general ecosystem. We covered a total of ten line transects, three in Enonkishu, three in Mbokishi and four in Olchoro Oirouwa conservancy.  The transect were laid in three major habitat types; grassland, shrubland and forest.
 
 #### Survey Design
-At the Point Counts, we worked on the maxim that if you stand at one point, it is possible to count all the birds seen and heard.Point Counts were used to estimate the relative abundance and species diversity. Twelve Point Counts were performed at least once along a line transect laid in a grassland, shrubland or forest in the three conservancies.  In addition, two Point Counts were conducted in Emarti settlement and farmlands and a farmland located at the eastern border of Mbokishi.  All birds seen or heard were recorded at each census station located after every 200 m along the line transect.  Also recorded were the number, behavior and its niche at the time of observation.  In addition, simple habitat and environmental variables at the beginning of each count such as cloud cover (percentage of sky covered), wind (general direction), temperature (cold, warm or hot) and broad habitat type were recorded. The changes in habitat types during the PCs were noted down.
+
+At the Point Counts, we worked on the maxim that if you stand at one point, it is possible to count all the birds seen and heard. Point Counts were used to estimate the relative abundance and species diversity. Twelve Point Counts were performed at least once along a line transect laid in a grassland, shrubland or forest in the three conservancies.  In addition, two Point Counts were conducted in Emarti settlement and farmlands and a farmland located at the eastern border of Mbokishi.  All birds seen or heard were recorded at each census station located after every 200 m along the line transect.  Also recorded were the number, behavior and its niche at the time of observation.  In addition, simple habitat and environmental variables at the beginning of each count such as cloud cover (percentage of sky covered), wind (general direction), temperature (cold, warm or hot) and broad habitat type were recorded. The changes in habitat types during the Point Counts were noted down.
 
 ```{r, r, echo = FALSE, warning = FALSE, fig.cap = "Transect line with sample points"}
 library(ggplot2)
@@ -225,18 +224,12 @@ In all the three conservancies, most species were rare with a few common ones. T
 
 We recommend a common habitat and species conservation strategy for the Enonkishu – Mbokishi – Olchoro Oirouwa ecosystem. As part of the strategy, there will be an integrated biodiversity monitoring framework involving conservancy scouts, biodiversity experts, wildlife managers, and local communities. In addition, the three conservancies can work with the relevant government agencies to make linear infrastructure such as electricity distribution lines and roads safe for birds and other wildlife.
 
-##### Avian Abundance and Species Richness
-
-- Total number of bird species observed per habitat type.
-- Number of individuals per species divided by the total number of individuals observed.-relative abundance
-- Use mean counts per point to estimate population densities by species.
-- Identify species strongly associated with specific habitats
-
-\newpage
 
 ##### 	Threatened Speciess
 
 The IUCN categorizes species of birds through its Red List with the aim of assessing their conservation status and identifying which ones are most at risk of extinction.  The IUCN Red List categories are widely understood for classifying species at risk of extinction globally.  The Categories are;  Extinct, Extinct in the Wild, Critically Endangered, Endangered, Vulnerable, Near Threatened, Least Concern, Data Deficient and Not Evaluated.  Species of birds that are classified as Critically Endangered, Endangered, Vulnerable or Near Threatened have shown evidence for rapid decline in their populations across their home range.  We recorded twelve (12) globally threatened species, with eight of them either Critically Endangered or Endangered.
+
+\newpage
 
 \begin{table}[H]
 \centering
@@ -259,9 +252,11 @@ Eurasian Roller & \textit{Coracias garrulus} & Near Threatened & PM \\ \hline
 \end{tabular}
 \end{table}
 
+*PM = Palaearctic Migrant   AM = Afrotropic Migrant. (In lower case migrants of that category may occur alongside resident, non-migratory individuals).*
+
 ####	Forest dependent birds
 
-Forests are essential to birds because they provide shelter such as cavities for cavity-nesting birds such as woodpeckers and parrots, food such as insects and fruits for insectivores and frugivores and roosting places.  Bennun et al. (1996) attempted to characterize the role of East African forests in avian conservation by categorizing birds found in our region according to the varying levels at which they depend on forests.  They introduced three categories;  FF or forest specialist, for those species that spent their entire life cycle in the forest interior, F or forest generalists, for species that are found both in the forest interior and at the edge and f or forest visitors, for species that visit forests but are not entirely dependent on it.  We recorded at fifty (50) forest dependent species from twenty-four (24) families.  Below (Table 3) is a list of forest specialists (FF) and forest generalists (F) recorded, out which five (5) were birds of prey.
+Forests are essential to birds because they provide shelter such as cavities for cavity-nesting birds such as woodpeckers and parrots, food such as insects and fruits for insectivores and frugivores and roosting places.  Bennun *et al*. (1996) attempted to characterize the role of East African forests in avian conservation by categorizing birds found in our region according to the varying levels at which they depend on forests.  They introduced three categories;  FF or forest specialist, for those species that spent their entire life cycle in the forest interior, F or forest generalists, for species that are found both in the forest interior and at the edge and f or forest visitors, for species that visit forests but are not entirely dependent on it.  We recorded at fifty (50) forest dependent species from twenty-four (24) families.  Below (Table 3) is a list of forest specialists (FF) and forest generalists (F) recorded, out which five (5) were birds of prey.
 
 \begin{figure}[h!]
 \centering
@@ -269,7 +264,7 @@ Forests are essential to birds because they provide shelter such as cavities for
 \includegraphics[width=0.45\textwidth]{images/forestbird1.JPG} &
 \includegraphics[width=0.45\textwidth]{images/forestbird2.JPG} \\
 \end{tabular}
-\caption{Forest dependent birds, Schalow’s Turaco and Cinnamon-chested Bee-eater.}
+\caption{Forest dependent birds, Schalow’s Turaco  and Cinnamon-chested Bee-eater.}
 \end{figure}
 
 \begin{table}[H]
@@ -304,7 +299,6 @@ Every year, millions of birds migrate across Africa.  Nearly 200 species migrate
 
 Wetlands are vital to birds, because just like forests, they provide food, shelter and nesting places.  Wetlands are also important stop-over sites for migratory birds.  We recorded a total of thirty-eight (38) waterbirds in the natural and man-made wetlands in the Enonkishu – Mbokishi – Ol Chorro ecosystem.  Out of which sixteen (16) species migrate either within Africa or between Africa, Europe and parts of Asia.
 
-#### Challenges faced : habitat type and elevation
 
 \newpage
 
@@ -552,8 +546,6 @@ camara* was observed.
 \caption{Tree stumps evidencing past clearing of indigenous forest (left) and invasive species observed (right).}
 \end{figure}
 
-
-
 #### Discussion
 
 A total of 412 species were recorded during the survey and is quite impressive in relation to its size. A total of 384 are indigenous and 28 are exotic which represents a small fraction of the total flora which are either naturalized, introduced ornamentals or alien invasive species 
@@ -563,8 +555,15 @@ significant despite the fact that most of the study area has undergone some habi
 Mbokishi had highest diversity due to most of its vegetation is secondary in nature especially 
 recently abandoned cropland with very high diversity of naturalized exotic weeds, the permanent wetland at Chali Chali base camp also highly contributed to its diversity where as Enonkishu and Olchoro Oirouwa had great similarity with more homogenous old grasslands, with shrublands and forests forming climax vegetation. Poaceae (Grass family) had the highest diversity with 63 species followed Asteraceae (Sunflower family) with 46 species then Fabaceae (Legume family) by with 43 species, Acanthaceae (Acanthus family) with 25 species and Malvaceae (Cotton family) with 21 species, all the five families representing about 48% of the total species and thus playing a very important role in understanding the role they play in this important ecosystems and adjacent environs. The vegetation diversity and composition across most of the habitats sampled was highly dependent on human interference, most of the present vegetation is as result of secondary regeneration after the original forests were cleared to pave way for settlement, crop cultivation and livestock keeping. Its vegetation is host to several CITES species and its preservation will ensure protection of these important species of flora and fauna it hosts and the entire ecosystem.  The established sample plots will be used to monitor plants diversity and composition dynamics over time.
 
-### Recommendations
+###  Conclusion and Recommendations
 
+The areas biodiversity is highly dependent on human intervention and natural factors such as
+edaphic and climatic conditions. High species diversity is expected after subsequent surveys and expert consultations. There will be more benefit in establishing research partnerships.
+
+-	It is highly recommended that the three conservancies prepare and adopt the same conservation strategy or biodiversity action plan to guide in their management.  In this plan, we recommend robust species and habitat conservation strategies using threatened species as flagships.
+-	As a baseline, this survey provides a platform for establishment of an avian monitoring program.  This program can make use of the already set line transects in the grasslands, shrublands and forests.
+-	For a robust avian monitoring program to sustain, the conservancy scouts will require training in fundamentals of ornithology, precisely on bird identification, field data collection and basic data analysis and curation.  The training expertise can be provided by institutions such as the Ornithology Section of the National Museums of Kenya.
+- It is urgent that the conservancies make linear infrastructure such as electricity distribution lines and roads safe for birds.  For instance, the electricity distribution lines can be retrofitted accordingly to prevent electrocution of perching birds of prey.  Most of the threatened species found within these three conservancies are medium to large – sized birds of prey of waterbirds.  This group of birds is prone to electrocution, especially birds of prey that perch on electricity poles as vantage point from which can locate prey.
 - Controlled development in the conservancies to reduce damage to vegetation.
 - Proper disposal of exotic hedge plants to avoid invasion into the natural habitat by
 uprooting and incineration.
@@ -572,13 +571,6 @@ uprooting and incineration.
 landscaping which should be guided by plant experts.
 - Manage the spread of invasive species such as *Lantana camara* (Tick Berry) by physical
 removal.
-
-
-### Conclusion
-
-The areas plant diversity is highly dependent on human intervention and natural factors such as
-edaphic and climatic conditions. High species diversity is expected after subsequent flora
-surveys. 
 
 \newpage
 
@@ -604,23 +596,6 @@ The training underscored the significance of biodiversity monitoring in maintain
 \caption{Sample photos taken during the training sessions.}
 \end{figure}
 
-
-
-\newpage
-
-## Conclusion and Recommendations
-
-- Established monitoring programme will contribute to understanding biodiversity trends and conservation impacts. recommendation to establish a monitoring protocol
-- Results will be useful for conservation financing tools or initiatives
-- Trends will be identified based on ongoing assessments and expert consultations. There will be more benefit in establishing research partnerships.
-- Train additional community monitors
-- Develop species-specific conservation plans
-- Expand monitoring to adjacent conservancies
-- Develop nature finance proposals
-- Create integrated conservation management plan across the three conservancies
-- 
-
-
 \newpage
 
 ## Appendix I
@@ -645,7 +620,9 @@ The front pages of the data Sheets used during the study are shown below:
 
 ## References
 
-1. Lee, K., Tristram, A., Karimi, R., & Hammer, M. (2020). The frontline of conservation: Defending the Kenyan Maasai Mara from biodiversity loss. Biosphere Expeditions. Retrieved from https://www.biosphere-expeditions.org/images/stories/pdfs/reports/report-kenya20.pdf
+1. 	Bennun, L., C. Dranzoa & Pomeroy, D. (1996).  The forest birds of Kenya and Uganda.  Journal of the East Africa Natural History Society, 85, 23 -48.https://doi.org/10.2982/0012-8317(1996)85[23:TFBOKA]2.0.CO;2
+
+2. Lee, K., Tristram, A., Karimi, R., & Hammer, M. (2020). The frontline of conservation: Defending the Kenyan Maasai Mara from biodiversity loss. Biosphere Expeditions. Retrieved from https://www.biosphere-expeditions.org/images/stories/pdfs/reports/report-kenya20.pdf
 
 2. Kindt, R. (2020). WorldFlora: An R package for exact and fuzzy matching of plant names against the World Flora Online taxonomic backbone data. Applications in Plant Sciences, 8(9), e11388. https://doi.org/10.1002/aps3.11388
 
