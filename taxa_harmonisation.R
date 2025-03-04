@@ -2,8 +2,10 @@
 library(WorldFlora)
 library(readxl)
 
-species_data <- read_excel("data/species_checklist.xlsx")
+file_path<- "data/plant_data_NM_2024.xlsx"
 #head(species_data) # check the data 
+species_data <- read_excel(file_path, sheet = 1)
+species_data <- species_data[-2, ]
 species_data <- as.data.frame(species_data) # convert data from tibble to dataframe 
 
 # Load the WFO Backbone after manually downloading and extracting into the wd
@@ -19,9 +21,5 @@ harmonized_results <- WFO.match(
 
 
 head(harmonized_results)
-
-duplicated_rows <- harmonized_results[duplicated(harmonized_results$Species), ]
-# Remove duplicates
-harmonized_results <- harmonized_results[!duplicated(harmonized_results$Species), ]
 
 write.csv(harmonized_results, "data/harmonized_species_list.csv", row.names = FALSE)
