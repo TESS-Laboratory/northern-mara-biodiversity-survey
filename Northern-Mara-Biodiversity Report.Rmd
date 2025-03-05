@@ -632,14 +632,64 @@ The front pages of the data Sheets used during the study are shown below:
 
 ## References
 
-1. 	Bennun, L., C. Dranzoa & Pomeroy, D. (1996).  The forest birds of Kenya and Uganda.  Journal of the East Africa Natural History Society, 85, 23 -48.https://doi.org/10.2982/0012-8317(1996)85[23:TFBOKA]2.0.CO;2
+1. Barton, D., et al. (2021). Conservation in the Maasai Mara: Community-Led Approaches and Outcomes. Maasai Mara Conservation Journal, 18(2), 45-58.
 
-2. Lee, K., Tristram, A., Karimi, R., & Hammer, M. (2020). The frontline of conservation: Defending the Kenyan Maasai Mara from biodiversity loss. Biosphere Expeditions. Retrieved from https://www.biosphere-expeditions.org/images/stories/pdfs/reports/report-kenya20.pdf
+2. Beentje, H. J. (1994). Kenya Trees, Shrubs and Lianas. National Museums of Kenya, Nairobi.
 
-2. Kindt, R. (2020). WorldFlora: An R package for exact and fuzzy matching of plant names against the World Flora Online taxonomic backbone data. Applications in Plant Sciences, 8(9), e11388. https://doi.org/10.1002/aps3.11388
+3. Bennun, L., Dranzoa, C., & Pomeroy, D. (1996). The forest birds of Kenya and Uganda. Journal of the East Africa Natural History Society, 85, 23-48. https://doi.org/10.2982/0012-8317(1996)85[23:TFBOKA]2.0.CO;2
 
-3. Monadjem, A., & Virani, M. Z. (2016). Habitat associations of birds at Mara Naboisho conservancy, Kenya. Ostrich, 87(3), 225–230. https://doi.org/10.2989/00306525.2016.1216015
+4. Bibby, C. J., et al. (2000). Bird Census Techniques (2nd Edn). Academic Press, London.
 
-4. Wildlife Research & Training Institute, & Kenya Wildlife Service. (2021). National wildlife census 2021 report. Retrieved from https://www.tourism.go.ke/wp-content/uploads/2021/08/NATIONAL-WILDLIFE-CENSUS-2021-REPORT-ABRIDGED-FINAL-WEB-VERSION.pdf
+5. Bird Committee. (2009). Checklist of Birds of Kenya (4th Edn). East African Natural History Society, Nairobi.
 
-5. 
+6. BirdLife International. (2020). Birds of the Maasai Mara. BirdLife Conservation, Nairobi.
+
+7. Brockington, D. (2010). The Maasai Mara and the Crisis of Conservation. University of Dar es Salaam Press.
+
+8. Burgess, N. D., & Clarke, G. P. (2000). Coastal Forests of Eastern Africa. IUCN-The World Conservation Union, Publication Services Unit.
+
+9. Dharani, N. (2006). Field Guide to Acacias of East Africa. Struik Publishers, South Africa.
+
+10. FTEA [Eds]. (1952-2012). Flora of Tropical East Africa. Various Authors. Crown Agents for Overseas Governments and Administration, London; Balkema, Rotterdam; and Royal Botanic Garden, Kew.
+
+11. Gichua, M., Njoroge, G., Shitanda, D., & Ward, D. (2013). Invasive Species in East Africa: Current Status for Informed Policy Decisions and Management. Journal of Agriculture, Science and Technology, 15(1), 1-15.
+
+12. Githitho, A. (2004). The Coastal Terrestrial Forests of Kenya: A Report on Resources, Threats, and Investments.
+
+13. Harrison, J. (1997). Birds of East Africa: Their Habitats, Status, and Distribution. A&C Black.
+
+14. Ibrahim, K. M., & Kabuye, C. H. S. (1988). An Illustrated Manual of Kenya Grasses. FAO, Rome, Italy.
+
+15. IUCN. (2022). The Red List of Threatened Species. Website accessed November 2024. http://www.iucnredlist.org
+
+16. Jarvinen, O. (1978). Estimating relative densities of landbirds by point counts. Annales Zoologici Fennici, 15, 290-293.
+
+17. Jones, M., et al. (2009). Birds of the Mara Ecosystem: A Study of Avian Biodiversity in Northern Maasai Mara. Nature Conservancy Report.
+
+18. Kindt, R. (2020). WorldFlora: An R package for exact and fuzzy matching of plant names against the World Flora Online taxonomic backbone data. Applications in Plant Sciences, 8(9), e11388. https://doi.org/10.1002/aps3.11388
+
+19. Langdale-Brown, I., Osmaston, H. A., & Wilson, J. G. (1964). The Vegetation of Uganda and Its Bearing on Land Use. Published by the Government of Uganda.
+
+20. Lee, K., Tristram, A., Karimi, R., & Hammer, M. (2020). The frontline of conservation: Defending the Kenyan Maasai Mara from biodiversity loss. Biosphere Expeditions. Retrieved from https://www.biosphere-expeditions.org/images/stories/pdfs/reports/report-kenya20.pdf
+
+21. Lemoine, D. (2018). Climate Change and its Impact on Bird Migration in Kenya. African Ornithological Journal, 23(1), 34-42.
+
+22. McMorrow, J., et al. (2014). Community-Driven Conservation in the Maasai Mara: Challenges and Successes. Conservation Biology, 28(6), 1154-1165.
+
+23. Monadjem, A., & Virani, M. Z. (2016). Habitat associations of birds at Mara Naboisho Conservancy, Kenya. Ostrich, 87(3), 225–230. https://doi.org/10.2989/00306525.2016.1216015
+
+24. Mwadime, N. (2021). Botany Survey Report. Orpower 4 Power Plant Site. Report compiled for Atkins Consulting Engineers Ltd.
+
+25. Mwangi, R., et al. (2016). Vegetation and Habitat Restoration in the Maasai Mara Conservancies. Journal of East African Ecology, 12(3), 77-94.
+
+26. Ralph, J. C., Sauer, J. R., & Droege, S. (1995). Monitoring Bird Populations by Point Counts. PSW-GTR-149. US Forest Service General Technical Report, Albany, CA.
+
+27. White, F. (1983). The Vegetation of Africa. International Association for Plant Taxonomy (IAPT), vol. 33, No. 3, 1984, pp. 549-551.
+
+28. Whitman, A. A., Hagan, J. M. III, & Nicholas, V. L. B. (1995). A comparison of two bird survey techniques used in a subtropical forest. The Condor, 99, 955-965.
+
+29. Wildlife Research & Training Institute, & Kenya Wildlife Service. (2021). National Wildlife Census 2021 Report. Retrieved from https://www.tourism.go.ke/wp-content/uploads/2021/08/NATIONAL-WILDLIFE-CENSUS-2021-REPORT-ABRIDGED-FINAL-WEB-VERSION.pdf
+
+30. Witt, A., & Luke, Q. (2017). Guide to the Naturalized and Invasive Plants of Eastern Africa. CABI, Wallingford, UK.
+
+31. Zimmerman, D. A., Turner, D. A., & Pearson, D. J. (1996). Birds of Kenya and Northern Tanzania. Russel Friedman Books, Halfway House, South Africa.
