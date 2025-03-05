@@ -45,9 +45,9 @@ This survey was conducted in the Northern Mara Conservancies by the following te
 
 This report  presents a summary of a comprehensive survey that was conducted in the Northern Mara Conservancies to establish baseline data on avian and floral species composition. The survey aimed to provide a foundational understanding of biodiversity in the region, guiding conservation efforts and land use planning. This report presents key findings derived from the data collected.
  
-The survey recorded a total of 412 floral species across the three conservancies, with Mbokishi having the highest diversity at 310 species, followed by Enonkishu with 203 species, and Olchoro Oirouwa with 196 species. A total of 384 species are indigenous, and 28 are exotic, representing a small fraction of the total flora, which includes naturalized, introduced ornamental, or alien invasive species. Eight invasive plants were recorded during the survey. Plant species included in the IUCN Red List and CITES database were considered conservation priorities in this survey.
+The survey recorded a total of 412 floral species across the three conservancies, with Mbokishi having the highest diversity at 310 species, followed by Enonkishu with 203 species, and Olchoro Oirouwa with 196 species. Of these, 384 species are indigenous, while 28 are exotic, representing a small proportion of the total flora. The exotic species include naturalised, introduced ornamental, or alien invasive plants. Eight invasive plant species were recorded during the survey. Plant species listed in the IUCN Red List and CITES database were identified as conservation priorities.
 
-We recorded 187 species of birds from 54 families. Twelve species were listed as threatened in the IUCN Red List. Two species of vultures, Ruppell’s Griffon Vulture (*Gyps rueppellii*) and White-backed Griffon Vulture (*Gyps africanus*), are classified as **Critically Endangered**. Six species, including Secretarybird (*Sagittarius serpentarius*) and *Grey Crowned Crane* (*Balearica regulorum*), are classified as **Endangered**. One species, Tawny Eagle (*Aquila rapax*), is classified as **Vulnerable**, and two species, Crowned Eagle (*Stephanoaetus coronatus*) and Eurasian Roller (*Coracias garrulus*), are classified as **Near Threatened**.
+A total of 187 bird species from 54 families were recorded. Twelve species were listed as threatened in the IUCN Red List. Among them,two vulture species, Ruppell’s Griffon Vulture (*Gyps rueppellii*) and White-backed Griffon Vulture (*Gyps africanus*), are classified as **Critically Endangered**. Six species, including Secretarybird (*Sagittarius serpentarius*) and *Grey Crowned Crane* (*Balearica regulorum*), are classified as **Endangered**. One species, Tawny Eagle (*Aquila rapax*), is classified as **Vulnerable**, and two species, Crowned Eagle (*Stephanoaetus coronatus*) and Eurasian Roller (*Coracias garrulus*), are classified as **Near Threatened**.
 
 ## Background
 
@@ -71,7 +71,7 @@ Central to the success and sustainability of this monitoring effort is capacity 
 
 ## Introduction
 
-The objectives of this survey were:
+The objectives of this survey were to:
 
 *	Establish a comprehensive biomonitoring baseline for avian and floral species composition in the Northern Mara Conservancies
 *	Optimise and expand the existing monitoring infrastructure, integrating bird and plant species alongside the ongoing mammal monitoring.
@@ -199,7 +199,7 @@ labels <- data.frame(
  
 #### Opportunistic sightings
 
-We made observations for birds in different habitats found within the three conservancies.  We made these observations at all times when not conducting Point Counts.  From our base camp at Mara Training Center, we covered areas to the east towards Mbokishi and to the west towards Ol Chorro.  We recorded species that we saw or heard and the habitat in which they occurred.  For waterbirds, we looked for birds in both permanent and seasonal wetlands within the conservancies.  We used these search data to update the species list.
+We made observations for birds in different habitats found within the three conservancies.  We made these observations at all times when not conducting Point Counts.  From our base camp at Mara Training Center, we covered areas to the east towards Mbokishi and to the west towards Olchoro Oirouwa.  We recorded species that we saw or heard and the habitat in which they occurred.  For waterbirds, we looked for birds in both permanent and seasonal wetlands within the conservancies.  We used these search data to update the species list.
 
 \begin{figure}[h!]
 \centering
@@ -214,7 +214,7 @@ We made observations for birds in different habitats found within the three cons
 
 #### Results
 
-Overall, we recorded a total of **one hundred and eighty-seven** species of birds from fifty-four families. **link to the checklist**. This list includes globally threatened species, long distance migrants and species that are partially or fully dependent on forest habitats. Twelve species were listed as threatened in the IUCN Red List. Two species of vultures, Ruppell’s Griffon Vulture (*Gyps rueppellii*) and White-backed Griffon Vulture (*Gyps africanus*), are classified as **Critically Endangered**. Six species, including Secretarybird (*Sagittarius serpentarius*) and Grey Crowned Crane (*Balearica regulorum*), are classified as **Endangered**. One species, Tawny Eagle (*Aquila rapax*), is classified as **Vulnerable**, and two species, Crowned Eagle (*Stephanoaetus coronatus*) and Eurasian Roller (*Coracias garrulus*), are classified as **Near Threatened**.
+Overall, we recorded a total of **one hundred and eighty-seven** species of birds from fifty-four families. This list includes globally threatened species, long distance migrants and species that are partially or fully dependent on forest habitats. Twelve species were listed as threatened in the IUCN Red List. Two species of vultures, Ruppell’s Griffon Vulture (*Gyps rueppellii*) and White-backed Griffon Vulture (*Gyps africanus*), are classified as **Critically Endangered**. Six species, including Secretarybird (*Sagittarius serpentarius*) and Grey Crowned Crane (*Balearica regulorum*), are classified as **Endangered**. One species, Tawny Eagle (*Aquila rapax*), is classified as **Vulnerable**, and two species, Crowned Eagle (*Stephanoaetus coronatus*) and Eurasian Roller (*Coracias garrulus*), are classified as **Near Threatened**.
 
 We recorded forty-three migratory species from twenty-one families. Thirty-one were long-distance Palaearctic migrants. These included Black Stork (*Ciconia nigra*), European Honey Buzzard (*Pernis apivorus*), Willow Warbler (*Phylloscopus trochilus*) and Isabelline Wheatear (*Oenanthe isabellinus*). Eleven species, including Black-winged Stilt (*Himantopus himantopus*) and Squacco Heron (*Ardeola ralloides*), migrate within continental Africa.
 
@@ -256,7 +256,7 @@ Eurasian Roller & \textit{Coracias garrulus} & Near Threatened & PM \\ \hline
 
 ####	Forest dependent birds
 
-Forests are essential to birds because they provide shelter such as cavities for cavity-nesting birds such as woodpeckers and parrots, food such as insects and fruits for insectivores and frugivores and roosting places.  Bennun *et al*. (1996) attempted to characterize the role of East African forests in avian conservation by categorizing birds found in our region according to the varying levels at which they depend on forests.  They introduced three categories;  FF or forest specialist, for those species that spent their entire life cycle in the forest interior, F or forest generalists, for species that are found both in the forest interior and at the edge and f or forest visitors, for species that visit forests but are not entirely dependent on it.  We recorded at fifty (50) forest dependent species from twenty-four (24) families.  Below (Table 3) is a list of forest specialists (FF) and forest generalists (F) recorded, out which five (5) were birds of prey.
+Forests are essential to birds because they provide shelter such as cavities for cavity-nesting birds such as woodpeckers and parrots, food such as insects and fruits for insectivores and frugivores and roosting places.  Bennun *et al*. (1996) attempted to characterize the role of East African forests in avian conservation by categorizing birds found in our region according to the varying levels at which they depend on forests.  They introduced three categories;  FF or forest specialist, for those species that spent their entire life cycle in the forest interior, F or forest generalists, for species that are found both in the forest interior and at the edge and f or forest visitors, for species that visit forests but are not entirely dependent on it.  We recorded at fifty (50) forest dependent species from twenty-four (24) families.  Below is a list of forest specialists (FF) and forest generalists (F) recorded, out of which five (5) were birds of prey.
 
 \begin{figure}[h!]
 \centering
@@ -293,12 +293,23 @@ Collared Sunbird & \textit{Hedydipna collaris} & F \\ \hline
 
 ####	Migratory species
 
-Every year, millions of birds migrate across Africa.  Nearly 200 species migrate regularly from Europe and Asia to Africa south of the Sahara.  They follow the East African – Eurasian flyway, a route with key stop over sites for waterbirds, land birds and birds of prey.  It is estimated that over 1.5 million birds from at least 37 families migrate through this flyway.  In Kenya, out of the over 1100 species that occur here, at least 160 are classified as long-distance migrants from the Palaearctic region.  We recorded a total of forty-three (43) migratory species from 21 families (Table 2).  They include waterbirds such as the Black Stork Ciconia nigra and White Stork Ciconia ciconia, landbirds such as Northern Wheatear Oenanthe oenanthe and Pied Wheatear Oenanthe pleschanka and birds of prey such as European Honey Buzzard Pernis apivorus and Montagu’s Harrier Circus pygargus.  These species migrate from parts of northern Europe and Russia to Africa.
+Every year, millions of birds migrate across Africa.  Nearly 200 species migrate regularly from Europe and Asia to Africa south of the Sahara.  They follow the East African – Eurasian flyway, a route with key stop over sites for waterbirds, land birds and birds of prey.  It is estimated that over 1.5 million birds from at least 37 families migrate through this flyway.  In Kenya, out of the over 1100 species that occur here, at least 160 are classified as long-distance migrants from the Palaearctic region.  We recorded a total of forty-three (43) migratory species from 21 families.  They include waterbirds such as the Black Stork (*Ciconia nigra*) and White Stork (*Ciconia ciconia*), landbirds such as Northern Wheatear (*Oenanthe oenanthe*) and Pied Wheatear (*Oenanthe pleschanka*) and birds of prey such as European Honey Buzzard (*Pernis apivorus*) and Montagu’s Harrier (*Circus pygargus*).  These species migrate from parts of northern Europe and Russia to Africa.
 
 ####	Waterbirds
 
 Wetlands are vital to birds, because just like forests, they provide food, shelter and nesting places.  Wetlands are also important stop-over sites for migratory birds.  We recorded a total of thirty-eight (38) waterbirds in the natural and man-made wetlands in the Enonkishu – Mbokishi – Ol Chorro ecosystem.  Out of which sixteen (16) species migrate either within Africa or between Africa, Europe and parts of Asia.
 
+#### Grassland and Shrubland birds
+
+The shrublands host both grassland and forest species and are important refuge for some species at times of resource scarcity when competition for food, nesting and roosting sites is intense in the forest and grasslands. We recorded a total of thirty-nine (39) species associated with grasslands, Mbokishi had thirty-nine (39) species, Enonkishu had thirty-seven (37) and Olchoro Oirouwa had thirty-one (31).  Species with the highest relative abundance are congregatory species such as egrets that follow grazing herbivores, vultures that feed in groups or guineafowls that live in large social groups. The highest species diversity of shrubland birds was in Enonkishu.The diversity in Mbokishi and Ol Chorro was similar.
+
+\newpage
+
+#### Discussion
+
+ This ecosystem is a heterogeneous landscape with a diverse range of birds that also acts as an important stop-over and dispersal site for species that migrate within Africa (intra-African migrants) and out of Africa (long distance Palaearctic migrants).The presence of two Critically Endangered species of vultures and six Endangered species including the Grey Crowned Crane (*Balaerica regulorum*) elevates the regional and global role of this ecosystem as a key habitat in moderating populations of threatened avian species.  In addition to habitat loss, populations of vultures and associated birds of prey continue to decline rapidly due to indiscriminate poisoning and collision with energy infrastructure.  The Grey Crowned Crane on the other hand have suffered greatly from conversion of its wetland habitats into farmland.
+ 
+ Even though the three conservancies are at different stages of wildlife conservation, with Ol Chorro being the oldest and Mbokishi being the newest, this survey reveals significant species turn over across the three conservancies and their key habitats. Species with large home ranges such as Crowned Eagle (*Stephanoaetus coronatus*) and Martial Eagle (*Polemaetus bellicosus*), may nest in one conservancy but disperse elsewhere to feed.  Therefore, it would be ecologically ineffective to conserve the nesting sites of such a species without doing the same in its feeding sites.On the other hand, both the natural and artificial wetlands are important roosting sites for species such as Cattle Egrets Egretta garzetta that follow grazing herbivores in the grasslands to feed on flushed insects and other invertebrates.  In addition, in the dry season, most resident and migratory waterbirds congregate at these wetlands.
 
 \newpage
 
@@ -558,7 +569,7 @@ recently abandoned cropland with very high diversity of naturalized exotic weeds
 ###  Conclusion and Recommendations
 
 The areas biodiversity is highly dependent on human intervention and natural factors such as
-edaphic and climatic conditions. High species diversity is expected after subsequent surveys and expert consultations. There will be more benefit in establishing research partnerships.
+edaphic and climatic conditions. This survey reveals significant species turn over across the three conservancies and their key habitats. High species diversity is expected after subsequent surveys and expert consultations. There will be more benefit in establishing research partnerships.
 
 -	It is highly recommended that the three conservancies prepare and adopt the same conservation strategy or biodiversity action plan to guide in their management.  In this plan, we recommend robust species and habitat conservation strategies using threatened species as flagships.
 -	As a baseline, this survey provides a platform for establishment of an avian monitoring program.  This program can make use of the already set line transects in the grasslands, shrublands and forests.
@@ -600,23 +611,24 @@ The training underscored the significance of biodiversity monitoring in maintain
 
 ## Appendix I
 
+### Data and code availability
+
+ All raw data, analysis scripts, and supplementary materials from this research are openly available in our dedicated GitHub repository:
+ 
+https://github.com/TESS-Laboratory/northern-mara-biodiversity-survey/tree/main
+
+
 ### Data forms
 
 The front pages of the data Sheets used during the study are shown below:
 
 ![Front page of the Avian Point Count Data Sheet](images/aviandatasheet.jpg)
 
+
 ![ Front page of the Vegetation Sampling Data Sheet](images/vegetationdatasheet.jpg)
 
+
 \newpage
-
-### Open Research
- 
-  Here is the URL to where the data is hosted ....
-
-### Plants diversity checklist.
-
-### sampled transects plants composition, distribution and diversity checklist (to be shared with the conservancy teams)
 
 ## References
 
