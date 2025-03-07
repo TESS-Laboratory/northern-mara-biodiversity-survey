@@ -1,10 +1,7 @@
 # northern-mara-biodiversity-survey
-Created as part of Milcah Kirinyet's (cheromilca@gmail.com) Oppenheimer Impact Scholar project, working with Dascot ltd., Sustain East Africa, and Enonkishu Conservancy.
+This repository contains a summary report on " Report on Avian and Plant Species Baseline Survey Conducted in the Northern Mara between 6th to 21st November 2024" and underlying data and workflows. This was created by Milcah Kirinyet's (cheromilca@gmail.com), Dr. Andrew Cunliffe (A.Cunliffe@exeter.ac.uk) and Dr. Peter Tyrell (peterdavidtyrrell@gmail.com), as part of Milcah's Oppenheimer Impact Scholar project within the *Oppenheimer Programme in African Landscape Systems (OPALS)* (https://opals-exeter.org/) in partnership with Dascot Ltd., Sustain East Africa, and Enonkishu Conservancy.
 
-This repository contains data, R scripts, and summary analyses from the biodiversity baseline survey undetaken in November 2024.
-
-The primary output and analyses are documented in this report **Northern-Mara-Biodiversity Report.pdf**, authored in collaboration with Dr. Andrew Cunliffe (A.Cunliffe@exeter.ac.uk) and Dr. Peter Tyrell (peterdavidtyrrell@gmail.com).
-
+The repo is structured as follows:
 - **data**: Folder containing avian and vegetation data collected during the survey, and geolocation information for the sampling points.
 The vegetation data has undergone data quality control, including taxonomic harmonisation and filtering out of ecologically sensitive data from specific transects but is retained in the overall species checklist.
 
