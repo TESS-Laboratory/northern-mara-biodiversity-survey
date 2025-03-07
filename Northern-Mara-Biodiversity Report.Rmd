@@ -1,4 +1,3 @@
-
 ---
 title: "**Report on Avian and Plant Species Baseline Survey Conducted in the Northern Mara between 6th to 21st November 2024**"
 author: |
@@ -13,6 +12,7 @@ output:
 header-includes:
   - \usepackage{float} % Enables exact figure placement with [H]
   - \usepackage{caption} % Required for \captionsetup
+  - \usepackage{subcaption} % Required for subfigures
   - \setlength{\textfloatsep}{10pt plus 1.0pt minus 2.0pt} % Reduces space around floats
   - \setlength{\floatsep}{10pt plus 1.0pt minus 2.0pt} % Reduces space between floats
   - \setlength{\intextsep}{10pt plus 1.0pt minus 2.0pt} % Fine-tune spacing
@@ -25,7 +25,6 @@ h1 {
   text-align: center;
 }
 </style>
-
 
 \newpage
 
@@ -297,7 +296,7 @@ Collared Sunbird & \textit{Hedydipna collaris} & F \\ \hline
 
 ####	Migratory species
 
-Every year, millions of birds migrate across Africa.  Nearly 200 species migrate regularly from Europe and Asia to Africa south of the Sahara.  They follow the East African – Eurasian flyway, a route with key stop over sites for waterbirds, land birds and birds of prey.  It is estimated that over 1.5 million birds from at least 37 families migrate through this flyway.  In Kenya, out of the over 1100 species that occur here, at least 160 are classified as long-distance migrants from the Palaearctic region.  We recorded a total of forty-three (43) migratory species from 21 families.  They include waterbirds such as the Black Stork (*Ciconia nigra*) and White Stork (*Ciconia ciconia*), landbirds such as Northern Wheatear (*Oenanthe oenanthe*) and Pied Wheatear (*Oenanthe pleschanka*) and birds of prey such as European Honey Buzzard (*Pernis apivorus*) and Montagu’s Harrier (*Circus pygargus*).  These species migrate from parts of northern Europe and Russia to Africa.
+Every year, millions of birds migrate across Africa.  Nearly 200 species migrate regularly from Europe and Asia to Africa south of the Sahara (Bennun *et al*., 1996; Harrison, 1997).  They follow the East African – Eurasian flyway, a route with key stop over sites for waterbirds, land birds and birds of prey (BirdLife International, 2020; Lemoine, 2018).  It is estimated that over 1.5 million birds from at least 37 families migrate through this flyway.  In Kenya, out of the over 1100 species that occur here, at least 160 are classified as long-distance migrants from the Palaearctic region (Bird Committee, 2009; Zimmerman *et al*., 1996).  We recorded a total of forty-three (43) migratory species from 21 families.  They include waterbirds such as the Black Stork (*Ciconia nigra*) and White Stork (*Ciconia ciconia*), landbirds such as Northern Wheatear (*Oenanthe oenanthe*) and Pied Wheatear (*Oenanthe pleschanka*) and birds of prey such as European Honey Buzzard (*Pernis apivorus*) and Montagu’s Harrier (*Circus pygargus*).  These species migrate from parts of northern Europe and Russia to Africa.
 
 ####	Waterbirds
 
@@ -458,17 +457,33 @@ Verbenaceae & \textit{Lantana camara} L. & Shrub \\ \hline
 \end{table}
 
 
-\begin{figure}[h!]
+\begin{figure}[H]
 \centering
 \begin{tabular}{cc}
-\includegraphics[width=0.4\textwidth]{images/invasive01.JPG} &
-\includegraphics[width=0.4\textwidth]{images/invasive02.JPG} \\
-\includegraphics[width=0.4\textwidth]{images/invasive03.JPG} &
-\includegraphics[width=0.4\textwidth]{images/invasive04.JPG} \\
+\begin{subfigure}[b]{0.4\textwidth}
+    \includegraphics[width=\textwidth]{images/invasive01.JPG}
+    \caption{\textit{Caesalpinia decapetala}}
+    \label{fig:invasive_a}
+\end{subfigure} &
+\begin{subfigure}[b]{0.4\textwidth}
+    \includegraphics[width=\textwidth]{images/invasive02.JPG}
+    \caption{\textit{Parthenium hysterophorus}}
+    \label{fig:invasive_b}
+\end{subfigure} \\
+\begin{subfigure}[b]{0.4\textwidth}
+    \includegraphics[width=\textwidth]{images/invasive03.JPG}
+    \caption{\textit{Senecio madagascariensis}}
+    \label{fig:invasive_c}
+\end{subfigure} &
+\begin{subfigure}[b]{0.4\textwidth}
+    \includegraphics[width=\textwidth]{images/invasive04.JPG}
+    \caption{\textit{Austrocylindropuntia subulata}}
+    \label{fig:invasive_d}
+\end{subfigure} \\
 \end{tabular}
 \caption{Photographs of invasive species observed during the Northern Mara biodiversity survey.}
+\label{fig:invasive_species}
 \end{figure}
-
 \newpage
 
 ### Species of Conservation Concern
