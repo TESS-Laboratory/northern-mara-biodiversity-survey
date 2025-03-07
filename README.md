@@ -30,8 +30,10 @@ The "plant_data_NM_2024.xlsx" contains:
 - The Olchoro contains floral species found in Olchoro 
 - The Final checklist is a summary of species where found and their IUCN ,CITES status
 
-The "floral_harmonized_species_list.csv" contains the harmonised list of species fro the raw data.
+The "floral_harmonized_species_list.csv" contains the harmonised list of species for the raw data.
+
 The "avian_transect point locations.xlsx" contains the georeferenced for the avian start and end points.
+
 The " floral_transect_point_locations.csv" contains the georeferenced for the floral transect locations.
 
 - **images**: Folder with images taken during the field exercise.

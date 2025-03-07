@@ -37,9 +37,9 @@ h1 {
 
 ## Acknowledgements
 
-We would like to express our gratitude to the Oppenheimer Programme in African Landscapes (OPALS) for providing the funding that made this project possible. Their commitment to advancing conservation and sustainable land use initiatives in Africa is deeply appreciated.
+We would like to express our gratitude to the Oppenheimer Programme in African Landscapes (OPALS) which was funded by the University of Exeter, Oppenheimer Generations Research and Conservation, and Sarah Turvill for making this project possible. Their commitment to advancing conservation and sustainable land use initiatives in Africa is deeply appreciated.
 
-This survey was conducted in the Northern Mara Conservancies by the following team: Oppenheimer Impact Scholar, Ms Milcah Kirinyet; Ornithologist, Mr John Musina; and Botanist, Mr Thomas Mwadime Nyange. The team received invaluable support from the Northern Mara Conservancies' management team and rangers, whose dedication and expertise greatly contributed to the success of this project.
+This survey was conducted in the Northern Mara Conservancies by the following team: Oppenheimer Impact Scholar, Ms Milcah Kirinyet; Ornithologist, Mr John Musina; and Botanist, Mr Thomas Mwadime Nyange. The team received invaluable support from the Northern Mara Conservancies' management team and rangers, particularly Albert Cheruiyot and Dapash Francis, whose dedication and expertise greatly contributed to the success of this project. We thank Erick Odire for sharing the workflow that formed the basis of the habitat mapping analysis.
 
 ## Executive Summary 
 
@@ -51,19 +51,19 @@ A total of 187 bird species from 54 families were recorded. Twelve species were 
 
 ## Background
 
-The Northern Mara Conservancies (Enonkishu, Olchoro Oirouwa, and Mbokishi) collectively span approximately 32,928 acres, forming critical ecological zones  within the larger Mara-Serengeti ecosystem, renowned for its rich biodiversity and complex ecological interactions. These areas serve as a vital interface between biodiversity conservation and community-based land management, demonstrating how sustainable practices can foster coexistence between wildlife and human activities. 
+The Northern Mara Conservancies (Enonkishu, Olchoro Oirouwa, and Mbokishi) collectively span approximately 13,325 hectares, forming critical ecological zones  within the larger Mara-Serengeti ecosystem, renowned for its rich biodiversity and complex ecological interactions. These areas serve as a vital interface between biodiversity conservation and community-based land management, demonstrating how sustainable practices can foster coexistence between wildlife and human activities. 
 
 Recent studies have further underscored the pivotal role of community conservancies in preserving wildlife populations within this region. A 2021 census revealed that over 80% of wildlife in the Maasai Mara were found in community conservancies, highlighting the growing importance of these areas as key players in biodiversity conservation and sustainable land management (Wildlife Research & Training Institute & Kenya Wildlife Service, 2021).
 
-While these conservancies are recognized for their contributions to wildlife conservation, knowledge about other critical aspects of biodiversity remains limited. The avifauna of the Greater Mara Region is relatively well documented within the Maasai Mara National Reserve but knowledge about bird species in the surrounding conservancies is sparse. For instance, a 2016 study recorded 220 bird species at Mara Naboisho but noted that many species’ distributions and habitat associations remain poorly understood, relying heavily on anecdotal evidence rather than systematic surveys (Monadjem & Virani, 2016). Although there are basic species lists available for the region, many of these lists do not capture the full complexity of avian and floral diversity across different habitats within the conservancies. This lack of detailed data can hinder effective conservation strategies and management practices.
+While these conservancies are recognized for their contributions to wildlife conservation, knowledge about other critical aspects of biodiversity remains limited. The avifauna of the Greater Mara Region is relatively well documented within the Maasai Mara National Reserve but knowledge about bird species in the surrounding conservancies is sparse. For instance, a 2016 study recorded 220 bird species at Mara Naboisho but noted that many species’ distributions and habitat associations remain poorly understood, relying heavily on anecdotal evidence rather than systematic surveys (Monadjem & Virani, 2016). Although there are basic species lists available for the region, many of these lists do not capture the full complexity of avian and floral diversity across different habitats within the conservancies and the poorly contrained survey effort means that we cannot replicate the surveys to assess changes over time. This lack of detailed data can hinder evaluation of effective conservation strategies and management practices.
 
-The recent baseline survey is particularly timely and significant for newer conservancies like Mbokishi that have not yet undergone extensive ecological assessments, further contributing to the data gap. This survey provides an essential opportunity to establish baseline data on its biodiversity, particularly focusing on avian and plant species, while considering the vital role of habitat in shaping the distribution and abundance of bird species.
+Extending baseline understanding through field surveys is particularly timely and significant for newer conservancies like Mbokishi that have not yet undergone extensive ecological assessments, further contributing to the data gap. This survey provides an essential opportunity to establish baseline data on its biodiversity, particularly focusing on avian and plant species, while considering the vital role of habitat in shaping the distribution and abundance of bird species.
 
-This baseline survey builds upon the foundational work initiated by Biosphere Expeditions during their 2020 survey in Enonkishu (Lee et al., 2020). That study documented over 230 bird species using the Southern African Bird Atlas Project (SABAP2) protocol, underscoring Enonkishu's role as a habitat for various avian populations, including endangered and migratory species. The findings emphasised the necessity for systematic monitoring to understand bird population dynamics and their interactions with land use patterns. The Biosphere Expeditions report from Enonkishu emphasised the critical need for systematic monitoring to better understand bird populations and their interactions with land use patterns. This indicates a broader gap in ecological data across the conservancies.
+This baseline survey builds upon the foundational work initiated by Biosphere Expeditions during their 2020 survey in Enonkishu (Lee et al., 2020), which documented over 230 bird species using the Southern African Bird Atlas Project (SABAP2) protocol, underscoring Enonkishu's role as a habitat for various avian populations, including endangered and migratory species. The findings emphasised the necessity for systematic monitoring to understand bird population dynamics and their interactions with land use patterns. The Biosphere Expeditions report from Enonkishu emphasised the critical need for systematic monitoring to better understand bird populations and their interactions with land use patterns. This indicates a broader gap in ecological data across these conservancies.
 
 The Biosphere Expeditions report also laid the groundwork for understanding plant biodiversity through preliminary inventories. It highlighted the importance of grasslands and woodlands in sustaining habitat quality for both wildlife and livestock while revealing significant gaps in data regarding plant species composition, grassland health, and the prevalence of invasive species. 
 
-By creating a structured framework for data collection, our survey addresses gaps identified in earlier research and recommendations to extend surveys to cover a larger geographical area, ensuring that future studies can compare data over time and assess trends effectively. Continuous monitoring through these transects is vital for assessing the health and resilience of the ecosystems within the conservancies. Long-term data will provide insights into species abundance, diversity, and habitat conditions, which are essential for informed conservation strategies and land management practices.
+By creating a structured framework for systematic data collection, our survey addresses gaps identified in earlier research and recommendations to extend surveys to cover a larger geographical area, ensuring that future studies can compare data over time and assess trends effectively. Continuous monitoring through these transects is vital for assessing the health and resilience of the ecosystems within the conservancies. Long-term data will provide insights into species abundance, diversity, and habitat conditions, which are essential for informed conservation strategies and land management practices.
 
 Central to the success and sustainability of this monitoring effort is capacity building, ensuring that local stakeholders are equipped with the necessary skills and knowledge to carry out long-term biodiversity monitoring independently. By fostering expertise in data collection, management, and interpretation, we strengthen local engagement and ownership of conservation efforts. This investment in skills development not only enhances the quality and reliability of ecological data but also ensures that monitoring remains an ongoing, community-driven process that supports adaptive conservation and land management strategies well into the future.
 
@@ -75,8 +75,10 @@ The objectives of this survey were to:
 
 *	Establish a comprehensive biomonitoring baseline for avian and floral species composition in the Northern Mara Conservancies
 *	Optimise and expand the existing monitoring infrastructure, integrating bird and plant species alongside the ongoing mammal monitoring.
-*	Enhance local capacity to sustain ongoing biodiversity monitoring through training and knowledge transfer,incorporating the latest best practices in data management. This includes implementing robust data analysis workflows, ensuring reproducibility, transparency, and efficiency.
+*	Enhance local capacity to sustain ongoing biodiversity monitoring through training and knowledge transfer,incorporating the latest best practices in data management. 
+* Implement open source workflows, ensuring reproducibility, transparency, and efficiency. 
 *	Align monitoring efforts with international standards and best practices for biodiversity monitoring and assessment.
+
 
 We organised introductory sessions in Enonkishu (for both the Enonkishu and Mbokishi teams) and the Olchoro Oirouwa team at their office headquarters, to discuss the objectives of our visit and the importance of biodiversity surveys for the conservancies and develop the support of the teams and their participation in the planned activities. 
 
@@ -100,7 +102,7 @@ Further cartographic refinements, including symbology adjustments, legend additi
 
 ### Survey Site Selection
 
-Within the classified habitat strata, stratified random sampling was used to identify survey sites. This method ensured that key ecological features across habitat types were adequately represented, establishing a robust framework for biodiversity assessments. Sampling sites were further refined using Google Earth Pro to pinpoint and mark precise locations for sampling points and transects across the landscape.
+Within the classified habitat strata, stratified random sampling was used to identify survey sites. This method ensured that key ecological features across habitat types were adequately represented, establishing a robust framework for biodiversity assessments. Selection of sampling sites was further refined using Google Earth Pro to pinpoint and mark precise locations for sampling points and transects across the landscape.
 
 Monitoring sites were selected based on predefined criteria, ensuring comprehensive coverage of the ecological diversity within the conservancies. For bird surveys, line transects of approximately three kilometres were established for each habitat type, with at least two sites per habitat type in each conservancy. For vegetation monitoring, 1-kilometre transects were designed for each habitat type to adequately capture ecological variations across the landscape.
 
@@ -115,7 +117,7 @@ We used Point Counts on Line Transects to estimate the relative abundance and sp
 
 #### Survey Design
 
-At the Point Counts, we worked on the maxim that if you stand at one point, it is possible to count all the birds seen and heard. Point Counts were used to estimate the relative abundance and species diversity. Twelve Point Counts were performed at least once along a line transect laid in a grassland, shrubland or forest in the three conservancies.  In addition, two Point Counts were conducted in Emarti settlement and farmlands and a farmland located at the eastern border of Mbokishi.  All birds seen or heard were recorded at each census station located after every 200 m along the line transect.  Also recorded were the number, behavior and its niche at the time of observation.  In addition, simple habitat and environmental variables at the beginning of each count such as cloud cover (percentage of sky covered), wind (general direction), temperature (cold, warm or hot) and broad habitat type were recorded. The changes in habitat types during the Point Counts were noted down.
+At the Point Counts, we worked on the maxim that if you stand at one point, it is possible to count all the birds seen and heard. Point Counts were used to estimate the relative abundance and species diversity. Twelve Point Counts were performed at least once along a line transect laid in a grassland, shrubland or forest in the three conservancies.  In addition, two Point Counts were conducted in Emarti settlement and farmlands and a farmland located at the eastern border of Mbokishi.  All birds seen or heard were recorded at each census station located after every 200 m along the line transect.  Also recorded were the number, behavior and its niche at the time of observation.  In addition, simple habitat and environmental variables at the beginning of each count such as cloud cover (percentage of sky covered), wind (general direction), temperature (cold, warm or hot), and broad habitat type were recorded. The habitat type at each Point Count location was recorded.
 
 ```{r, r, echo = FALSE, warning = FALSE, fig.cap = "Transect line with sample points"}
 library(ggplot2)
@@ -199,7 +201,7 @@ labels <- data.frame(
  
 #### Opportunistic sightings
 
-We made observations for birds in different habitats found within the three conservancies.  We made these observations at all times when not conducting Point Counts.  From our base camp at Mara Training Center, we covered areas to the east towards Mbokishi and to the west towards Olchoro Oirouwa.  We recorded species that we saw or heard and the habitat in which they occurred.  For waterbirds, we looked for birds in both permanent and seasonal wetlands within the conservancies.  We used these search data to update the species list.
+We made observations for birds in different habitats found within the three conservancies.  We made these observations at all times when not conducting Point Counts.  From our base camp at Mara Training Center, we covered areas to the east towards Mbokishi and to the west towards Olchoro Oirouwa.  We recorded species that we saw or heard and the habitat in which they occurred.  For waterbirds, we looked for birds in both permanent and seasonal wetlands within the conservancies.  We used these search data to expand the observed species list.
 
 \begin{figure}[h!]
 \centering
@@ -222,12 +224,12 @@ Among terrestrial birds, fifty species from twenty-four families were forest bir
 
 In all the three conservancies, most species were rare with a few common ones. The highest species diversity of grassland and forest birds was in Mbokishi, closely followed by Enonkishu. The highest species diversity of shrubland birds was in Enonkishu. Overall, species diversity was lowest in Olchoro Oirouwa for grassland, shrubland and forest birds.
 
-We recommend a common habitat and species conservation strategy for the Enonkishu – Mbokishi – Olchoro Oirouwa ecosystem. As part of the strategy, there will be an integrated biodiversity monitoring framework involving conservancy scouts, biodiversity experts, wildlife managers, and local communities. In addition, the three conservancies can work with the relevant government agencies to make linear infrastructure such as electricity distribution lines and roads safe for birds and other wildlife.
+We recommend a common habitat and species conservation strategy for the Enonkishu – Mbokishi – Olchoro Oirouwa ecosystem. As part of the strategy, there should be an integrated biodiversity monitoring framework involving conservancy scouts, biodiversity experts, wildlife managers, and local communities. In addition, the three conservancies can work with the relevant government agencies to make linear infrastructure such as electricity distribution lines and roads safe for birds and other wildlife.
 
 
 ##### 	Threatened Speciess
 
-The IUCN categorizes species of birds through its Red List with the aim of assessing their conservation status and identifying which ones are most at risk of extinction.  The IUCN Red List categories are widely understood for classifying species at risk of extinction globally.  The Categories are;  Extinct, Extinct in the Wild, Critically Endangered, Endangered, Vulnerable, Near Threatened, Least Concern, Data Deficient and Not Evaluated.  Species of birds that are classified as Critically Endangered, Endangered, Vulnerable or Near Threatened have shown evidence for rapid decline in their populations across their home range.  We recorded twelve (12) globally threatened species, with eight of them either Critically Endangered or Endangered.
+The IUCN categorizes species of birds through its Red List with the aim of assessing their conservation status and identifying which ones are most at risk of extinction.  The IUCN Red List categories are widely understood for classifying species at risk of extinction globally.  The Categories are;  Extinct, Extinct in the Wild, Critically Endangered, Endangered, Vulnerable, Near Threatened, Least Concern, Data Deficient and Not Evaluated.  Species of birds that are classified as Critically Endangered, Endangered, Vulnerable or Near Threatened have shown evidence for rapid decline in their populations across their home range.  We recorded 12 globally threatened species, with eight of them either Critically Endangered or Endangered.
 
 \newpage
 
@@ -237,22 +239,22 @@ The IUCN categorizes species of birds through its Red List with the aim of asses
 \begin{tabular}{l l l l}
 \hline
 \textbf{Common Name} & \textbf{Scientific Name} & \textbf{IUCN Status} & \textbf{Migratory Status} \\ \hline
-Lesser Flamingo & \textit{Phoeniconaias minor} & Near Threatened & am \\ 
+Lesser Flamingo & \textit{Phoeniconaias minor} & Near Threatened & Afrotropic Migrant (Note) \\ 
 Secretarybird & \textit{Sagittarius serpentarius} & Endangered &  \\ 
 White-backed Vulture & \textit{Gyps africanus} & Critically Endangered &  \\ 
 Rüppell's Vulture & \textit{Gyps rueppellii} & Critically Endangered &  \\ 
 Lappet-faced Vulture & \textit{Torgos tracheliotus} & Endangered &  \\ 
 Bateleur & \textit{Terathopius ecaudatus} & Endangered &  \\ 
 Tawny Eagle & \textit{Aquila rapax} & Vulnerable &  \\ 
-Steppe Eagle & \textit{Aquila nepalensis} & Endangered & PM \\ 
+Steppe Eagle & \textit{Aquila nepalensis} & Endangered & Palaearctic Migrant \\ 
 Martial Eagle & \textit{Polemaetus bellicosus} & Endangered &  \\ 
 Crowned Eagle & \textit{Stephanoaetus coronatus} & Near Threatened &  \\ 
 Grey Crowned Crane & \textit{Balearica regulorum} & Endangered &  \\ 
-Eurasian Roller & \textit{Coracias garrulus} & Near Threatened & PM \\ \hline
+Eurasian Roller & \textit{Coracias garrulus} & Near Threatened & Palaearctic Migrant \\ \hline
 \end{tabular}
 \end{table}
 
-*PM = Palaearctic Migrant   AM = Afrotropic Migrant. (In lower case migrants of that category may occur alongside resident, non-migratory individuals).*
+*Note: Migrants may occur alongside resident, non-migratory individuals.*
 
 ####	Forest dependent birds
 
@@ -264,7 +266,7 @@ Forests are essential to birds because they provide shelter such as cavities for
 \includegraphics[width=0.45\textwidth]{images/forestbird1.JPG} &
 \includegraphics[width=0.45\textwidth]{images/forestbird2.JPG} \\
 \end{tabular}
-\caption{Forest dependent birds, Schalow’s Turaco  and Cinnamon-chested Bee-eater.}
+\caption{Forest dependent birds, Schalow’s Turaco *Tauraco schalowi*  and Cinnamon-chested Bee-eater *Merops oreobates*.}
 \end{figure}
 
 \begin{table}[H]
@@ -301,7 +303,7 @@ Wetlands are vital to birds, because just like forests, they provide food, shelt
 
 #### Grassland and Shrubland birds
 
-The shrublands host both grassland and forest species and are important refuge for some species at times of resource scarcity when competition for food, nesting and roosting sites is intense in the forest and grasslands. We recorded a total of thirty-nine (39) species associated with grasslands, Mbokishi had thirty-nine (39) species, Enonkishu had thirty-seven (37) and Olchoro Oirouwa had thirty-one (31).  Species with the highest relative abundance are congregatory species such as egrets that follow grazing herbivores, vultures that feed in groups or guineafowls that live in large social groups. The highest species diversity of shrubland birds was in Enonkishu.The diversity in Mbokishi and Ol Chorro was similar.
+The shrublands host both grassland and forest species and are important refuge for some species at times of resource scarcity when competition for food, nesting and roosting sites is intense in the forest and grasslands. We recorded a total of thirty-nine (39) species associated with grasslands, Mbokishi had thirty-nine (39) species, Enonkishu had thirty-seven (37) and Olchoro Oirouwa had thirty-one (31).  Species with the highest relative abundance are congregatory species such as egrets that follow grazing herbivores, vultures that feed in groups or guineafowls that live in large social groups. The highest species diversity of shrubland birds was in Enonkishu. The diversity in Mbokishi and Ol Chorro was similar.
 
 \newpage
 
@@ -309,7 +311,7 @@ The shrublands host both grassland and forest species and are important refuge f
 
  This ecosystem is a heterogeneous landscape with a diverse range of birds that also acts as an important stop-over and dispersal site for species that migrate within Africa (intra-African migrants) and out of Africa (long distance Palaearctic migrants).The presence of two Critically Endangered species of vultures and six Endangered species including the Grey Crowned Crane (*Balaerica regulorum*) elevates the regional and global role of this ecosystem as a key habitat in moderating populations of threatened avian species.  In addition to habitat loss, populations of vultures and associated birds of prey continue to decline rapidly due to indiscriminate poisoning and collision with energy infrastructure.  The Grey Crowned Crane on the other hand have suffered greatly from conversion of its wetland habitats into farmland.
  
- Even though the three conservancies are at different stages of wildlife conservation, with Ol Chorro being the oldest and Mbokishi being the newest, this survey reveals significant species turn over across the three conservancies and their key habitats. Species with large home ranges such as Crowned Eagle (*Stephanoaetus coronatus*) and Martial Eagle (*Polemaetus bellicosus*), may nest in one conservancy but disperse elsewhere to feed.  Therefore, it would be ecologically ineffective to conserve the nesting sites of such a species without doing the same in its feeding sites.On the other hand, both the natural and artificial wetlands are important roosting sites for species such as Cattle Egrets Egretta garzetta that follow grazing herbivores in the grasslands to feed on flushed insects and other invertebrates.  In addition, in the dry season, most resident and migratory waterbirds congregate at these wetlands.
+ Even though the three conservancies are at different stages of establishment in wildlife conservation, with Ol Chorro being the oldest and Mbokishi being the newest, this survey reveals significant species turn over across the three conservancies and their key habitats. Species with large home ranges such as Crowned Eagle (*Stephanoaetus coronatus*) and Martial Eagle (*Polemaetus bellicosus*), may nest in one conservancy but disperse elsewhere to feed.  Therefore, it would be ecologically ineffective to conserve the nesting sites of such a species without doing the same in its feeding sites.On the other hand, both the natural and artificial wetlands are important roosting sites for species such as Cattle Egrets (*Egretta garzetta*) that follow grazing herbivores in the grasslands to feed on flushed insects and other invertebrates.  In addition, in the dry season, most resident and migratory waterbirds congregate at these wetlands.
 
 \newpage
 
@@ -318,7 +320,7 @@ The shrublands host both grassland and forest species and are important refuge f
 ### Vegetation classification 
 
 The study area’s plant cover is predominantly secondary in nature and consists of three main 
-vegetation types namely; shrubland, grassland and forest, other microhabitats include different
+vegetation types; shrubland, grassland and forest, other microhabitats include different
 wetland types such as seasonal and permanent water pools/marsh and seepages. 
 
 #### Shrubland
@@ -385,7 +387,7 @@ Additional plant documentation was conducted outside the established sample plot
 \includegraphics[width=0.45\textwidth]{images/observation.jpeg} &
 \includegraphics[width=0.45\textwidth]{images/observation1.JPG} \\
 \end{tabular}
-\caption{Sample images taken during vegetation sampling.}
+\caption{Photographs taken during vegetation sampling.}
 \end{figure}
 
 \newpage
@@ -438,7 +440,7 @@ survey.
 
 \begin{table}[H]
 \centering
-\caption{List of Invasive Species and Their Habit}
+\caption{List of Invasive Species and Their Habit.}
 \begin{tabular}{l l l}
 \hline
 \textbf{Family} & \textbf{Species} & \textbf{Habit} \\ \hline
@@ -462,7 +464,7 @@ Verbenaceae & \textit{Lantana camara} L. & Shrub \\ \hline
 \includegraphics[width=0.4\textwidth]{images/invasive03.JPG} &
 \includegraphics[width=0.4\textwidth]{images/invasive04.JPG} \\
 \end{tabular}
-\caption{Images of invasive species observed during the Northern Mara biodiversity survey.}
+\caption{Photographs of invasive species observed during the Northern Mara biodiversity survey.}
 \end{figure}
 
 \newpage
@@ -537,7 +539,7 @@ Santalaceae & \textit{Osyris lanceolata Hochst. \& Steud.} & Shrub & Appendix II
 
 ### Threats to the vegetation
 
-- Past clearing of indigenous forest to pave way for development was observed at Mbokish
+- Past clearing of indigenous forest to clear way for development was observed at Mbokish
 Conservancy settlement area and was evident due to presence of several tree stamps of
 *Olea europaea* and secondary bushes dominated by *Croton dichogamus* and *Euclea spp.*
 - Overgrazing by livestock was evident at Mbokishi conservancy settlement areas near
@@ -548,46 +550,40 @@ composition was observed at Enonkishu conservancy.
 - Invasion of by the alien invasive species such as *Parthenium hysperophorus* and *Lantana
 camara* was observed.
 
-\begin{figure}[h!]
-\centering
-\begin{tabular}{cc}
-\includegraphics[width=0.45\textwidth]{images/tree-stamps.jpeg} &
-\includegraphics[width=0.45\textwidth]{images/invasive04.JPG} \\
-\end{tabular}
-\caption{Tree stumps evidencing past clearing of indigenous forest (left) and invasive species observed (right).}
-\end{figure}
+![Tree stumps evidencing past clearing of indigenous forest.](images/tree-stamps.jpeg)
+
+
+\newpage
 
 #### Discussion
 
-A total of 412 species were recorded during the survey and is quite impressive in relation to its size. A total of 384 are indigenous and 28 are exotic which represents a small fraction of the total flora which are either naturalized, introduced ornamentals or alien invasive species 
-constituted less than 10% of the total plants recorded. The plant diversity is considered 
-significant despite the fact that most of the study area has undergone some habitat degradation. 
+A total of 412 species were recorded during the survey. A total of 384 are indigenous and 28 are exotic which represents a small fraction of the total flora which are either naturalized, introduced ornamentals or alien invasive species constituted less than 10% of the total plants recorded. The plant diversity is considered significant despite the fact that most of the study area has undergone some form of habitat degradation. 
 
 Mbokishi had highest diversity due to most of its vegetation is secondary in nature especially 
-recently abandoned cropland with very high diversity of naturalized exotic weeds, the permanent wetland at Chali Chali base camp also highly contributed to its diversity where as Enonkishu and Olchoro Oirouwa had great similarity with more homogenous old grasslands, with shrublands and forests forming climax vegetation. Poaceae (Grass family) had the highest diversity with 63 species followed Asteraceae (Sunflower family) with 46 species then Fabaceae (Legume family) by with 43 species, Acanthaceae (Acanthus family) with 25 species and Malvaceae (Cotton family) with 21 species, all the five families representing about 48% of the total species and thus playing a very important role in understanding the role they play in this important ecosystems and adjacent environs. The vegetation diversity and composition across most of the habitats sampled was highly dependent on human interference, most of the present vegetation is as result of secondary regeneration after the original forests were cleared to pave way for settlement, crop cultivation and livestock keeping. Its vegetation is host to several CITES species and its preservation will ensure protection of these important species of flora and fauna it hosts and the entire ecosystem.  The established sample plots will be used to monitor plants diversity and composition dynamics over time.
+recently abandoned cropland with very high diversity of naturalized exotic weeds, the permanent wetland at Chali Chali base camp also highly contributed to its diversity whereas Enonkishu and Olchoro Oirouwa had great similarity with more homogenous old grasslands, with shrublands and forests forming climax vegetation. Poaceae (Grass family) had the highest diversity with 63 species followed Asteraceae (Sunflower family) with 46 species then Fabaceae (Legume family) by with 43 species, Acanthaceae (Acanthus family) with 25 species and Malvaceae (Cotton family) with 21 species, all the five families representing about 48% of the total species and thus playing a very important role in understanding the role they play in this important ecosystems and adjacent environs. The vegetation diversity and composition across most of the habitats sampled was highly dependent on human interference, most of the present vegetation is as result of secondary regeneration after the original forests were cleared to clear way for settlement, crop cultivation and livestock keeping. Its vegetation is host to several CITES species and its preservation will ensure protection of these important species of flora and fauna it hosts and the entire ecosystem.  The established sample plots will be used to monitor plants diversity and composition dynamics over time.
 
 ###  Conclusion and Recommendations
 
 The areas biodiversity is highly dependent on human intervention and natural factors such as
 edaphic and climatic conditions. This survey reveals significant species turn over across the three conservancies and their key habitats. High species diversity is expected after subsequent surveys and expert consultations. There will be more benefit in establishing research partnerships.
 
--	It is highly recommended that the three conservancies prepare and adopt the same conservation strategy or biodiversity action plan to guide in their management.  In this plan, we recommend robust species and habitat conservation strategies using threatened species as flagships.
+-	It is highly recommended that the three conservancies prepare and adopt the same conservation strategy or biodiversity action plan to guide in their management to maximise efficiency savings and mutual benefit.  In this plan, we recommend robust species and habitat conservation strategies using threatened species as flagships.
 -	As a baseline, this survey provides a platform for establishment of an avian monitoring program.  This program can make use of the already set line transects in the grasslands, shrublands and forests.
 -	For a robust avian monitoring program to sustain, the conservancy scouts will require training in fundamentals of ornithology, precisely on bird identification, field data collection and basic data analysis and curation.  The training expertise can be provided by institutions such as the Ornithology Section of the National Museums of Kenya.
 - It is urgent that the conservancies make linear infrastructure such as electricity distribution lines and roads safe for birds.  For instance, the electricity distribution lines can be retrofitted accordingly to prevent electrocution of perching birds of prey.  Most of the threatened species found within these three conservancies are medium to large – sized birds of prey of waterbirds.  This group of birds is prone to electrocution, especially birds of prey that perch on electricity poles as vantage point from which can locate prey.
-- Controlled development in the conservancies to reduce damage to vegetation.
+- Strategically planned development in the conservancies to reduce damage to vegetation.
 - Proper disposal of exotic hedge plants to avoid invasion into the natural habitat by
 uprooting and incineration.
 - Reduce introduction of exotic ornamental species by using indigenous plants for
 landscaping which should be guided by plant experts.
 - Manage the spread of invasive species such as *Lantana camara* (Tick Berry) by physical
-removal.
+removal, being proactive about this will yield long term savings.
 
 \newpage
 
 ## Training and Capacity Building
 
-To enhance the capacity-building efforts for ground teams, we organised a half-day training for the rangers, to equip the rangers with the necessary skills and knowledge on transect set up  protocols, data and tools used in both avian and plants species monitoring.
+To enhance the capacity-building efforts for ground teams, we convened a half-day training for the rangers, to equip the rangers with the necessary skills and knowledge on transect set up  protocols, data and tools used in both avian and plants species monitoring.
 During this training, we covered fundamental topics, including:
 
 -	Transect setup: Detailed instructions on how to establish transects for both bird surveys and vegetation monitoring were demonstrated including other methods that were not used in this survey (e.g., mist nets).
@@ -604,7 +600,7 @@ The training underscored the significance of biodiversity monitoring in maintain
 \includegraphics[width=0.45\textwidth]{images/training.jpeg} &
 \includegraphics[width=0.45\textwidth]{images/training01.jpeg} \\
 \end{tabular}
-\caption{Sample photos taken during the training sessions.}
+\caption{Photos taken during the training sessions.}
 \end{figure}
 
 \newpage
