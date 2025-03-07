@@ -117,7 +117,7 @@ We used Point Counts on Line Transects to estimate the relative abundance and sp
 
 #### Survey Design
 
-At the Point Counts, we worked on the maxim that if you stand at one point, it is possible to count all the birds seen and heard. Point Counts were used to estimate the relative abundance and species diversity. Twelve Point Counts were performed at least once along a line transect laid in a grassland, shrubland or forest in the three conservancies.  In addition, two Point Counts were conducted in Emarti settlement and farmlands and a farmland located at the eastern border of Mbokishi.  All birds seen or heard were recorded at each census station located after every 200 m along the line transect.  Also recorded were the number, behavior and its niche at the time of observation.  In addition, simple habitat and environmental variables at the beginning of each count such as cloud cover (percentage of sky covered), wind (general direction), temperature (cold, warm or hot), and broad habitat type were recorded. The habitat type at each Point Count location was recorded.
+At the Point Counts, we worked on the maxim that if you stand at one point, it is possible to count all the birds seen and heard (Bibby *et al*., 2000) . Point Counts were used to estimate the relative abundance and species diversity. Twelve Point Counts were performed at least once along a line transect laid in a grassland, shrubland or forest in the three conservancies.  In addition, two Point Counts were conducted in Emarti settlement and farmlands and a farmland located at the eastern border of Mbokishi.  All birds seen or heard were recorded at each census station located after every 200 m along the line transect.  Also recorded were the number, behavior and its niche at the time of observation.  In addition, simple habitat and environmental variables at the beginning of each count such as cloud cover (percentage of sky covered), wind (general direction), temperature (cold, warm or hot), and broad habitat type were recorded. The habitat type at each Point Count location was recorded.
 
 ```{r, r, echo = FALSE, warning = FALSE, fig.cap = "Transect line with sample points"}
 library(ggplot2)
@@ -196,8 +196,10 @@ labels <- data.frame(
       - Photo-Guides
       - Mobile Apps
       - Field Handbooks, especially:
- 1. Field Guide to the Birds of Kenya and Northern Tanzania by Dale A. Zimmerman, David J. Pearson & Donald A. 
- 2. Birds of East Africa by Terry Stevenson and John Fanshawe.
+ 1. Zimmerman, D. A., Pearson, D. J., & Turner, D. A. (1996). *Field guide to the birds of Kenya and northern Tanzania*. Princeton University Press.
+
+2. Stevenson, T., & Fanshawe, J. (2002). *Birds of East Africa: Kenya, Tanzania, Uganda, Rwanda, Burundi*. Princeton University Press. 
+
  
 #### Opportunistic sightings
 
