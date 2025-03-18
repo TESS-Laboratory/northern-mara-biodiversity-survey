@@ -380,7 +380,7 @@ Additional plant documentation was conducted outside the established sample plot
 
 \newpage
 
-![Established floral transect locations](images/floraltransectlocations.png)
+![Established floral transect locations.](images/floraltransectlocations.png)
 
 \begin{figure}[H]
 \centering
